@@ -95,10 +95,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 58   | [Why would you expect a Product Owner to care that the Scrum Team adheres to its Definition of Done?](#question58) |
 | 59   | [A product's success is measured by:](#question59) |
 | 60   | [True or False: Dependencies could influence how the Product Owner orders Product Backlog Items.](#question60) |
-| 61   | [Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency?](#question61) |
 
 
 
+| 61   | [Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency? (choose the best answer)](#question61) |
 | 62   | [What is the responsibility of the Product Owner in crafting the Sprint Goal? (choose the best answer)](#question62) |
 | 63   | [When should the Product Owner update the project plan? (choose the best answer)](#question63) |
 | 64   | [A Product Backlog is: (choose the best three answers)](#question64) |
@@ -566,8 +566,8 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency?
-(choose the best answer)
+### Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency? (choose the best answer)
+
 - [ ] The Product Backlog is only updated at a release planning meeting with the stakeholders and the change control board present.
 - [ ] Product Backlog Items must be sized such that the highest ordered items are no bigger than a Sprint.
 - [ ] The Product Backlog is only updated at the Sprint Review, when both the Scrum Team and the stakeholders are available.
