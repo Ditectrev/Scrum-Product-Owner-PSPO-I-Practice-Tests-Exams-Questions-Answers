@@ -93,10 +93,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 56   | [What three things might a Scrum Product Owner focus on to ensure the product delivers value?](#question56) |
 | 57   | [How often should customer satisfaction be measured?](#question57) |
 | 58   | [Why would you expect a Product Owner to care that the Scrum Team adheres to its Definition of Done?](#question58) |
-| 59   | [A product's success is measured by:](#question59) |
 
 
 
+| 59   | [A product's success is measured by: (choose the best three answers)](#question59) |
 | 60   | [True or False: Dependencies could influence how the Product Owner orders Product Backlog Items.](#question60) |
 | 61   | [Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency? (choose the best answer)](#question61) |
 | 62   | [What is the responsibility of the Product Owner in crafting the Sprint Goal? (choose the best answer)](#question62) |
@@ -547,14 +547,14 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### A product's success is measured by:
-(choose the best three answers)
+### A product's success is measured by: (choose the best three answers)
+
 - [x] The impact on customer satisfaction.
 - [x] The impact on cost.
 - [ ] The impact on my boss's mood.
 - [ ] The delivery of upfront defend scope compared to the upfront planned time.
 - [ ] The impact on my performance rating.
-- [x] The impact on revenue
+- [x] The impact on revenue.
 
 **[⬆ Back to Top](#table-of-contents)**
 
