@@ -82,13 +82,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 43   | [Which of the following are criteria to order Product Backlog Items?](#question43) |
 | 44   | [Why is it important that there is only one Product Owner per product?](#question44) |
 | 45   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog?](#question45) |
-| 46   | [True or False: Product Owners must create clear and unambiguous acceptance criteria for each Product Backlog Item before it may be selected in Sprint Planning.](#question46) |
 | 52   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent?](#question52) |
 | 53   | [Why is it important that there is only one Product Owner per product?](#question53)|
 | 54   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog?](#question54) |
+
+
+
 | 55   | [True or False: Product Owners must create clear and unambiguous acceptance criteria for each Product Backlog Item before it may be selected in Sprint Planning.](#question55) |
-
-
 | 56   | [What three things might a Scrum Product Owner focus on to ensure the product delivers value? (choose the best three answers)](#question56) |
 | 57   | [How often should customer satisfaction be measured? (choose the best answer)](#question57) |
 | 58   | [Why would you expect a Product Owner to care that the Scrum Team adheres to its Definition of Done? (choose the best two answers)](#question58) |
