@@ -579,8 +579,8 @@ QUESTION SET
 
 - [ ] The Product Owner has no responsibility in it. This is the Developers responsibility.
 - [ ] The Product Owner defines the scope for a Sprint and therefore also the Sprint Goal.
-- [x] The Product Owner should not come to the Sprint Planning without a clearly defined Sprint Goal.
-- [ ] The Product Owner should come to the Sprint Planning with a business objective in mind and work with the Developers to craft the Sprint Goal.
+- [ ] The Product Owner should not come to the Sprint Planning without a clearly defined Sprint Goal.
+- [x] The Product Owner should come to the Sprint Planning with a business objective in mind and work with the Developers to craft the Sprint Goal.
 - [ ] The Product Owner must work with stakeholders to set each Sprint's Goal.
 
 **[⬆ Back to Top](#table-of-contents)**
