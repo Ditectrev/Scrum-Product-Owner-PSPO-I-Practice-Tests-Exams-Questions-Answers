@@ -61,6 +61,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 67   | [A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog?](#question67) |
 
 
+- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
+- [x] Introduce these features at the next Daily Scrum.
+- [x] Have the Scrum Master add these features to the current Sprint.
+- [ ] Add these features to the Product Backlog.
+
+
 | 5   | [What variables should a Product Owner consider when ordering the Product Backlog?](#question5) |
 | 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method?](#question6) |
 | 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items?](#question8) |
@@ -81,13 +87,12 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
 | 43   | [Which of the following are criteria to order Product Backlog Items?](#question43) |
 | 44   | [Why is it important that there is only one Product Owner per product?](#question44) |
-| 45   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog?](#question45) |
 | 52   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent?](#question52) |
 | 53   | [Why is it important that there is only one Product Owner per product?](#question53)|
-| 54   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog?](#question54) |
 
 
 
+| 54   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog? (choose the best two answers)](#question54) |
 | 55   | [True or False: Product Owners must create clear and unambiguous acceptance criteria for each Product Backlog Item before it may be selected in Sprint Planning.](#question55) |
 | 56   | [What three things might a Scrum Product Owner focus on to ensure the product delivers value? (choose the best three answers)](#question56) |
 | 57   | [How often should customer satisfaction be measured? (choose the best answer)](#question57) |
@@ -497,13 +502,12 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog?
-(choose the best two answers)
-- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
-- [x] Introduce these features at the next Daily Scrum.
-- [x] Have the Scrum Master add these features to the current Sprint.
-- [ ] It would confuse the stakeholders if they had to work with more than one person.
-- [ ] Add these features to the Product Backlog.
+### Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog? (choose the best two answers)
+
+- [x] Write every Product Backlog item clearly and with no ambiguity.
+- [x] Only fully describe Product Backlog items when it seems likely they will be implemented.
+- [ ] Hand off ownership of the Product Backlog to someone else.
+- [ ] Remove items from the Product Backlog that have not been addressed in a long time.
 
 **[⬆ Back to Top](#table-of-contents)**
 
