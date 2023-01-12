@@ -85,9 +85,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 40   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question40) |
 | 41   | [Which is NOT a valid consideration when ordering a Product Backlog?](#question41) |
 | 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
-| 43   | [Which of the following are criteria to order Product Backlog Items?](#question43) |
 
 
+
+| 43   | [Which of the following are criteria to order Product Backlog Items? (choose all that apply)](#question43) |
 | 52   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent? (choose the best two answers)](#question52) |
 | 53   | [Why is it important that there is only one Product Owner per product? (choose the best three answers)](#question53)|
 | 54   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog? (choose the best two answers)](#question54) |
@@ -470,8 +471,8 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following are criteria to order Product Backlog Items?
-(choose all that apply)
+### Which of the following are criteria to order Product Backlog Items? (choose all that apply)
+
 - [x] Value of Product Backlog Items.
 - [x] Dependencies between Product Backlog Items.
 - [x] Dependencies to other products.
