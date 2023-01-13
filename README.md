@@ -58,15 +58,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 | --- | --------------------------- |
-| 67   | [A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog?](#question67) |
-
-
-- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
-- [x] Introduce these features at the next Daily Scrum.
-- [x] Have the Scrum Master add these features to the current Sprint.
-- [ ] Add these features to the Product Backlog.
-
-
+| 1   | [A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)](#question67) |
 | 5   | [What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)](#question5) |
 | 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#question6) |
 | 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#question8) |
@@ -314,19 +306,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 312   | [The collaboration between the Developers and the Product Owner is very important for the product. Which of the following is the least productive way for the Scrum Master to improve this collaboration?] (#question312) |
 | 313   | [Which Scrum Event can be compared to the use of a "lessons learned meeting"?] (#question313) |
 | 314   | [True or False: The Product Backlog should have just enough detail.] (#question314) |
+| 315   | [MISSING QUESTION] (#questionMissing) |
 
--------------
-QUESTION SET
--------------
-### A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog?
+### A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)
 
-• Stability requirements
-• Performance requirements
-• Product Functionality
-• Documentation
-• Fixes
-(choose the best answer)
-- [x] Yes, they all belong on the Product Backlog. Product Backlog is supposed to be the “single source of truth"" for all the work for the product.
+- [x] Yes, they all belong on the Product Backlog. Product Backlog is supposed to be the Single Source of Truth for all the work for the product.
 - [ ] No, Product Backlog is a tool for the Product Owner. The Product Owner represents the users and stakeholders. Other types of requirements should be managed separately by the Developers. They are not the Product Owner's concern.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2479,3 +2463,10 @@ QUESTION SET
 - [ ] False.
 
 **[⬆ Back to Top](#table-of-contents)**
+
+### MISSING QUESTION
+
+- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
+- [x] Introduce these features at the next Daily Scrum.
+- [x] Have the Scrum Master add these features to the current Sprint.
+- [ ] Add these features to the Product Backlog.
