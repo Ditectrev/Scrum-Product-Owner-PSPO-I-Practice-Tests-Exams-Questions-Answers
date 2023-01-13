@@ -80,10 +80,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 35   | [Who is accountable for creating a valuable and usable Increment each Sprint?](#question35) |
 | 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question36) |
 | 37   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question37) |
-| 38   | [The ""cone of uncertainty"" can be used to do what?](#question38) |
 
 
 
+| 38   | [The Cone of Uncertainty can be used to do what? (choose the best answer)](#question38) |
 | 41   | [Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)](#question41) |
 | 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
 | 43   | [Which of the following are criteria to order Product Backlog Items? (choose all that apply)](#question43) |
@@ -443,11 +443,11 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The ""cone of uncertainty"" can be used to do what?
-(choose the best answer)
+### The Cone of Uncertainty can be used to do what? (choose the best answer)
+
 - [ ] Determine the length of the next Sprint.
 - [ ] Determine the cost of a project before it begins.
-- [ ] Determine whether to cut quality, similar to the ""Iron Triangle"" of project management.
+- [ ] Determine whether to cut quality, similar to the Iron Triangle of project management.
 - [x] Illustrate that as a project forecast lengthens, it is increasingly less certain.
 
 **[⬆ Back to Top](#table-of-contents)**
