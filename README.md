@@ -68,10 +68,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 
 | 5   | [What variables should a Product Owner consider when ordering the Product Backlog?](#question5) |
-| 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method?](#question6) |
 
 
-
+| 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#question6) |
 | 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#question8) |
 | 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
 | 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
@@ -344,8 +343,8 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method?
-(choose the best answer)
+### It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)
+
 - [ ] A Product or Release burn-down chart.
 - [ ] A Value burn-up chart.
 - [ ] A Gantt Chart.
