@@ -81,10 +81,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question36) |
 | 37   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question37) |
 | 38   | [The ""cone of uncertainty"" can be used to do what?](#question38) |
-| 39   | [Which is NOT a valid consideration when ordering a Product Backlog?](#question39) |
-| 41   | [Which is NOT a valid consideration when ordering a Product Backlog?](#question41) |
 
 
+
+| 41   | [Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)](#question41) |
 | 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
 | 43   | [Which of the following are criteria to order Product Backlog Items? (choose all that apply)](#question43) |
 | 52   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent? (choose the best two answers)](#question52) |
@@ -452,8 +452,8 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which is NOT a valid consideration when ordering a Product Backlog?
-(choose the best answer)
+### Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)
+
 - [ ] Risk.
 - [x] Tools and techniques.
 - [ ] Importance to customers.
