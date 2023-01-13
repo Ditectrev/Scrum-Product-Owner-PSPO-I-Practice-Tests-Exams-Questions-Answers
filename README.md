@@ -74,10 +74,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
 | 25   | [True or False: The value delivered by a product can only be determined by revenue.](#question25) |
 | 28   | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#question28) |
-| 31   | [When can the Product Backlog be updated?](#question31) |
 
 
 
+| 31   | [When can the Product Backlog be updated? (choose the best answer)](#question31) |
 | 33   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#question33) |
 | 34   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#question34) |
 | 35   | [Who is accountable for creating a valuable and usable Increment each Sprint? (choose the best answer)](#question35) |
@@ -400,10 +400,10 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### When can the Product Backlog be updated?
-(choose the best answer)
+### When can the Product Backlog be updated? (choose the best answer)
+
 - [ ] Never, unless agreed to by the change request.
-- [ ] At any time when done by the Product Owner or a delegate.
+- [x] At any time when done by the Product Owner or a delegate.
 - [ ] Only after a Sprint Review if agreed to by the stakeholders.
 - [ ] Only during Product Backlog Refinement sessions if the Product Owner is present.
 
