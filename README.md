@@ -78,11 +78,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 33   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#question33) |
 | 34   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#question34) |
 | 35   | [Who is accountable for creating a valuable and usable Increment each Sprint?](#question35) |
-| 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question36) |
-| 37   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question37) |
 
 
 
+
+| 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible? (choose the best two answers)](#question36) |
 | 38   | [The Cone of Uncertainty can be used to do what? (choose the best answer)](#question38) |
 | 41   | [Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)](#question41) |
 | 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
@@ -434,12 +434,12 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What are two effective ways for the Scrum Team to make non-functional requirements visible?
-(choose the best two answers)
+### What are two effective ways for the Scrum Team to make non-functional requirements visible? (choose the best two answers)
+
 - [ ] Run the integration and regression tests before the end of the Sprint, and capture the open work for the Sprint Backlog of the next Sprint.
 - [x] Add them to the Product Backlog to ensure transparency.
 - [ ] Put them on a separate list on the Scrum board, available for all to see.
-- [x] Add them to the Definition of Done so the work is taken care of every Sprint
+- [x] Add them to the Definition of Done so the work is taken care of every Sprint.
 
 **[⬆ Back to Top](#table-of-contents)**
 
