@@ -82,12 +82,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 37   | [What are two effective ways for the Scrum Team to make non-functional requirements visible?](#question37) |
 | 38   | [The ""cone of uncertainty"" can be used to do what?](#question38) |
 | 39   | [Which is NOT a valid consideration when ordering a Product Backlog?](#question39) |
-| 40   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question40) |
 | 41   | [Which is NOT a valid consideration when ordering a Product Backlog?](#question41) |
+
+
 | 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
-
-
-
 | 43   | [Which of the following are criteria to order Product Backlog Items? (choose all that apply)](#question43) |
 | 52   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent? (choose the best two answers)](#question52) |
 | 53   | [Why is it important that there is only one Product Owner per product? (choose the best three answers)](#question53)|
