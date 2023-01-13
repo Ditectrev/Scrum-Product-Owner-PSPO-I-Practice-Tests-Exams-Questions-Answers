@@ -77,11 +77,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 31   | [When can the Product Backlog be updated?](#question31) |
 | 33   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#question33) |
 | 34   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#question34) |
-| 35   | [Who is accountable for creating a valuable and usable Increment each Sprint?](#question35) |
 
 
 
 
+| 35   | [Who is accountable for creating a valuable and usable Increment each Sprint? (choose the best answer)](#question35) |
 | 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible? (choose the best two answers)](#question36) |
 | 38   | [The Cone of Uncertainty can be used to do what? (choose the best answer)](#question38) |
 | 41   | [Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)](#question41) |
@@ -424,13 +424,13 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Who is accountable for creating a valuable and usable Increment each Sprint?
-(choose the best answer)
+### Who is accountable for creating a valuable and usable Increment each Sprint? (choose the best answer)
+
 - [ ] The Scrum Master.
 - [ ] The CEO.
 - [ ] The Developers.
 - [x] The Scrum Team.
-- [ ] The Product Owner
+- [ ] The Product Owner.
 
 **[⬆ Back to Top](#table-of-contents)**
 
