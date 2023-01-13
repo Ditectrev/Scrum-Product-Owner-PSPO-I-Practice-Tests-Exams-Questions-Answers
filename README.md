@@ -69,9 +69,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | 5   | [What variables should a Product Owner consider when ordering the Product Backlog?](#question5) |
 | 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method?](#question6) |
-| 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items?](#question8) |
 
 
+
+| 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#question8) |
 | 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
 | 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
 | 25   | [True or False: The value delivered by a product can only be determined by revenue.](#question25) |
@@ -353,8 +354,8 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items?
-(choose the best answer)
+### The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)
+
 - [x] The Developers.
 - [ ] The PMO.
 - [ ] The Product Owner.
