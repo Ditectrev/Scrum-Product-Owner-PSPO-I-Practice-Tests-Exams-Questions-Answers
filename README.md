@@ -76,11 +76,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 28   | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#question28) |
 | 31   | [When can the Product Backlog be updated?](#question31) |
 | 33   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#question33) |
+
+
+
 | 34   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#question34) |
-
-
-
-
 | 35   | [Who is accountable for creating a valuable and usable Increment each Sprint? (choose the best answer)](#question35) |
 | 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible? (choose the best two answers)](#question36) |
 | 38   | [The Cone of Uncertainty can be used to do what? (choose the best answer)](#question38) |
