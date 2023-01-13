@@ -73,10 +73,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
 | 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
 | 25   | [True or False: The value delivered by a product can only be determined by revenue.](#question25) |
+
+
+
 | 28   | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#question28) |
-
-
-
 | 31   | [When can the Product Backlog be updated? (choose the best answer)](#question31) |
 | 33   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#question33) |
 | 34   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#question34) |
