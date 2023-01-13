@@ -71,10 +71,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method?](#question6) |
 | 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items?](#question8) |
 | 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
+
+
 | 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
-
-
-
 | 25   | [True or False: The value delivered by a product can only be determined by revenue.](#question25) |
 | 28   | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#question28) |
 | 31   | [When can the Product Backlog be updated? (choose the best answer)](#question31) |
