@@ -153,8 +153,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 128   | [Which two ways of creating Scrum Teams are consistent with Scrum's values? (choose the best two answers)](#question128) |
 | 129   | [True or False: The Scrum Team is accountable for creating a valuable Increment every Sprint.](#question129) |
 | 130   | [When does the next Sprint begin? (choose the best answer)](#question130) |
-| 131   | [True or False: An Increment must be released to customers or users at the end of each Sprint.
-](#question131) |
+| 131   | [True or False: An Increment must be released to customers or users at the end of each Sprint.](#question131) |
 | 132   | [What is the accountability of the Product Owner during Sprint 0? (choose the best answer)](#question132) |
 | 133   | [Which answer best describes the topics covered in Sprint Planning? (choose the best answer)](#question133) |
 | 134   | [Which of the following might the Scrum Team discuss during a Sprint Retrospective? (choose the best answer)](#question134) |
