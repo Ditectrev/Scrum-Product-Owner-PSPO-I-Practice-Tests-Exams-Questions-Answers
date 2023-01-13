@@ -67,9 +67,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Add these features to the Product Backlog.
 
 
-| 5   | [What variables should a Product Owner consider when ordering the Product Backlog?](#question5) |
-
-
+| 5   | [What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)](#question5) |
 | 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#question6) |
 | 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#question8) |
 | 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
@@ -333,8 +331,8 @@ QUESTION SET
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What variables should a Product Owner consider when ordering the Product Backlog?
-(choose the best answer)
+### What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)
+
 - [ ] Development cohesion as indicated by the Developers.
 - [ ] The availability of resources and skills for implementation.
 - [ ] Lowest development cost in order to maximize Return on Investment (ROI).
