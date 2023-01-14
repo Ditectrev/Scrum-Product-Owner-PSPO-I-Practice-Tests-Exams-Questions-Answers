@@ -305,7 +305,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 312   | [The collaboration between the Developers and the Product Owner is very important for the product. Which of the following is the least productive way for the Scrum Master to improve this collaboration?](#question312) |
 | 313   | [Which Scrum Event can be compared to the use of a "lessons learned meeting"?](#question313) |
 | 314   | [True or False: The Product Backlog should have just enough detail.](#question314) |
-| 315   | [MISSING QUESTION](#questionMissing) |
+| 315   | [In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)](#question315) |
 
 ### A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)
 
@@ -2463,7 +2463,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### MISSING QUESTION
+### In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)
 
 - [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
 - [x] Introduce these features at the next Daily Scrum.
