@@ -155,6 +155,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 130   | [When does the next Sprint begin? (choose the best answer)](#question130) |
 | 131   | [True or False: An Increment must be released to customers or users at the end of each Sprint.](#question131) |
 | 132   | [What is the accountability of the Product Owner during Sprint 0? (choose the best answer)](#question132) |
+| 132   | [True or False: When there are multiple teams working on one product, each Scrum Team should have a separate Product Owner.](#question132)
 | 133   | [Which answer best describes the topics covered in Sprint Planning? (choose the best answer)](#question133) |
 | 134   | [Which of the following might the Scrum Team discuss during a Sprint Retrospective? (choose the best answer)](#question134) |
 | 135   | [An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)](#question135) |
