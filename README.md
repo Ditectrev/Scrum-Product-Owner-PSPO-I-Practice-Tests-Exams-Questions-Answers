@@ -481,10 +481,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog? (choose the best two answers)
 
-- [x] Write every Product Backlog item clearly and with no ambiguity.
+- [ ] Avoid distracting the Scrum Team by maintaining newly gathered Product Backlog items in a separate Product Backlog until they are fully understood.
 - [x] Only fully describe Product Backlog items when it seems likely they will be implemented.
 - [ ] Hand off ownership of the Product Backlog to someone else.
-- [ ] Remove items from the Product Backlog that have not been addressed in a long time.
+- [x] Remove items from the Product Backlog that have not been addressed in a long time.
 
 **[⬆ Back to Top](#table-of-contents)**
 
