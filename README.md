@@ -2487,6 +2487,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Have the Scrum Master add these features to the current Sprint.
 - [ ] Add these features to the Product Backlog.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Developers are self-managing, which of the following do they manage? (choose the best answer)
 
 - [ ] Product Backlog ordering.
@@ -2495,12 +2497,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Stakeholders for the Sprint Review.
 - [ ] Sprint length.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### When the Developers determine that they will not be able to finish the complete forecast, who needs to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)
 
 - [x] The Scrum Master and the Developers.
 - [ ] The Product Owner and all stakeholders.
 - [ ] The Product Owner and the Developers.
 - [ ] The Scrum Master project manager and the Developers.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### A Scrum Team is a cohesive unit of professionals that consists of which of the following? (choose all that apply)
 
@@ -2510,6 +2516,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] One Scrum Master.
 - [ ] Customers.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Which of the following is required by Scrum? (choose the best answer)
 
 - [x] Sprint Retrospective.
@@ -2518,12 +2526,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Release Planning.
 - [ ] All of the above.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### A Scrum Master is working with a Scrum Team that has Developers in different physical locations. The Developers meet in a variety of meeting rooms and have much to do logistically (for example: reserve meeting rooms and set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)
 
 - [ ] Set up the meeting and tell the Scrum Team that is how it will be done.
 - [x] Allow the Developers to self-manage and determine for themselves what to do.
 - [ ] Inform management and ask them to solve it.
 - [ ] Ask the Developers to alternate who is responsible for meeting setup.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### What does it mean for a Scrum Team to be cross-functional? (choose the best answer)
 
@@ -2532,12 +2544,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Scrum Team is a virtual team drawing from separate teams of business analysts, architects, developers, and testers.
 - [ ] The Scrum Team includes not only developers but also business analysts, architects, and testers.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### The job of a Product Owner focuses on the following: (choose the best two answers)
 
 - [ ] Clearly communicating project or release status and strategies to customers and stakeholders.
 - [x] Working with customers and stakeholders to identify the most valuable product requirements.
 - [ ] Being with the Scrum Team all the time, just in case they need me to clarify a requirement.
 - [x] Writing clear, transparent User Stories.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### When multiple Scrum Teams are working on the same product, should all of their Increments be integrated every Sprint? (choose the best answer)
 
@@ -2546,12 +2562,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] No, that's far too hard and must be done in a hardening Sprint.
 - [ ] No, each Scrum Team stands alone.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Which statement best describes a Product Owner's responsibility? (choose the best answer)
 
 - [x] Optimizing the value of the work the Scrum Team does.
 - [ ] Keep stakeholders from distracting the Developers.
 - [ ] Directing the Developers.
 - [ ] Ensuring that the work meets the commitments to the stakeholders.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### Which two things should the Scrum Team do during the first Sprint? (choose the best two answers)
 
@@ -2561,12 +2581,16 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Define the major product features and a release plan architecture.
 - [ ] Analyze, describe, and document the requirements for the subsequent Sprints.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### What is the timebox for the Sprint Planning event? (choose the best answer)
 
 - [ ] Whenever it is done.
 - [ ] Monthly.
 - [ ] 4 hours for a one-month Sprint.
 - [x] 8 hours for a one-month Sprint.
+
+**[⬆ Back to Top](#table-of-contents)**
 
 ### Who owns the Sprint Backlog? (choose the best answer)
 
@@ -2575,6 +2599,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Developers.
 - [ ] The Scrum Master.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### Which of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)
 
 - [ ] Documenting acceptance criteria for items in the next Sprint.
@@ -2582,9 +2608,13 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] Identifying high priority process improvements for the next Sprint.
 - [x] How the team collaborates.
 
+**[⬆ Back to Top](#table-of-contents)**
+
 ### What is the Product Owner responsible for during the Sprint Retrospective? (choose the best answer)
 
 - [x] Participating as a Scrum Team member.
 - [ ] The Product Owner should not take part in Sprint Retrospective.
 - [ ] Capturing requirements for the Product Backlog.
 - [ ] Summarizing and reporting the discussions to the stakeholders that they represent in the Scrum Team.
+
+**[⬆ Back to Top](#table-of-contents)**
