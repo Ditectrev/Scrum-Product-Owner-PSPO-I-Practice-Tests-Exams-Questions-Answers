@@ -58,9 +58,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 | No. | Questions |
 | --- | --------------------------- |
-| 1   | [A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)](#question67) |
-| 5   | [What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)](#question5) |
-| 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#question6) |
+| 1   | [A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)](#a-scrum-team-has-been-working-on-a-product-for-9-sprints-a-new-product-owner-who-is-new-to-scrum-joins-the-team-and-understands-she-is-accountable-for-the-product-backlog-however-she-is-unsure-about-the-purpose-of-the-product-backlog-she-has-read-that-the-product-backlog-should-be-a-list-of-all-user-features-for-the-product-she-goes-to-the-scrum-master-asking-where-to-put-the-other-types-of-requirements-that-are-going-to-be-taken-into-account-are-all-of-the-following-types-of-requirements-acceptable-on-a-product-backlog-stability-requirements-performance-requirements-product-functionality-documentation-fixes-choose-the-best-answer) |
+| 5   | [What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)](#what-variables-should-a-product-owner-consider-when-ordering-the-product-backlog-choose-the-best-answer) |
+| 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#it-is-mandatory-for-the-product-owner-to-monitor-and-share-progress-of-the-product-backlog-by-using-which-method-choose-the-best-answer) |
 | 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#question8) |
 | 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
 | 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
@@ -320,7 +320,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 329   | [What is the timebox for the Sprint Planning event? (choose the best answer)](#question329) |
 | 330   | [Who owns the Sprint Backlog? (choose the best answer)](#question330) |
 | 331   | [Which of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)](#question331) |
-| 332   | [What is the Product Owner responsible for during the Sprint Retrospective? (choose the best answer)](#question332) |
+| 332   | [What is the Product Owner responsible for during the Sprint Retrospective? (choose the best answer)](#what-is-the-product-owner-responsible-for-during-the-sprint-retrospective-choose-the-best-answer) |
 
 
 
