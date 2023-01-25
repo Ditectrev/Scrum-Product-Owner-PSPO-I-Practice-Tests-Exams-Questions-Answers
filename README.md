@@ -36,7 +36,7 @@
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): xx 12, 2023.**
+**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): January 25, 2023.**
 
 - Launch of the course.
 
