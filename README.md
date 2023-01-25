@@ -1543,7 +1543,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [x] They collaborate often so the Developers build Increments keeping end-user and stakeholder concerns in mind.
 - [x] They collaborate often so the Product Oner can make informed decisions in balancing effort and value of Product Backlog Items.
 - [ ] They should share no more than the Sprint Planning and the Sprint Review meeting.
-- [ ] The Product Owwner should be with the Developers full-time to grow a deep understanding of the technology being used.
+- [ ] The Product Owner should be with the Developers full-time to grow a deep understanding of the technology being used.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1657,13 +1657,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### How does an organization know that a product built using Scrum is successful?
 
-- [ ] By the Product Owwner and stakeholders accepting the Increment at the Sprint Review.
+- [ ] By the Product Owner and stakeholders accepting the Increment at the Sprint Review.
 - [x] By relesing frequently, and measuring the value customers/users experience.
 - [ ] By measuring the actual time spent on develpomnet versus the time estimated for develpoment.
 - [ ] By measuring the velocity has increased since the last realese.
-
-
-
 
 **[⬆ Back to Top](#table-of-contents)**
 
