@@ -15,7 +15,19 @@
 1. Always happy to answer your questions on Udemy's Q&A's and outside :)
 2. Failed? Please submit a screenshot of your exam result and request a refund (via our upcoming platform, not possible on Udemy); we'll always accept it.
 3. Learn about topics, such as:
-   - ...
+   - Accountability in Scrum;
+   - Definition of Done (DoD);
+   - Product Backlog;
+   - Product Goal;
+   - Scrum;
+   - Scrum Daily;
+   - Scrum Team;
+   - Scrum Value;
+   - Self-management;
+   - Sprint Backlog;
+   - Sprint Planning;
+   - Sprint Retrospective;
+   - Sprint Review;
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
