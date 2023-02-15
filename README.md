@@ -18,13 +18,13 @@
    - Accountability in Scrum;
    - Definition of Done (DoD);
    - Product Backlog;
-   - Product Goal;
    - Scrum;
    - Scrum Daily;
    - Scrum Team;
    - Scrum Value;
    - Self-management;
    - Sprint Backlog;
+   - Sprint Goal;
    - Sprint Planning;
    - Sprint Retrospective;
    - Sprint Review;
