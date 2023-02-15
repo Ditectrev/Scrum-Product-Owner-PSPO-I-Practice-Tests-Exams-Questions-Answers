@@ -1709,7 +1709,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Plan the next Sprint.
 - [x] Discuss the way the Team has communicated in the last Sprint.
-- [x] Discuss the way the Development team has collaborated with the Product Owner.
+- [x] Discuss the way the Development Team has collaborated with the Product Owner.
 - [ ] Refine Product Backlog Items.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1905,7 +1905,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which statement explain when a Product Backlog Item is considered "Done"?
 
 - [ ] When the Product Owner declares it to be "Done".
-- [ ] When the Development team agrees that it is "Done".
+- [ ] When the Development Team agrees that it is "Done".
 - [x] When it is potentially releasable.
 
 **[⬆ Back to Top](#table-of-contents)**
