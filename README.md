@@ -71,270 +71,269 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | No. | Questions |
 | --- | --------------------------- |
 | 1   | [A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)](#a-scrum-team-has-been-working-on-a-product-for-9-sprints-a-new-product-owner-who-is-new-to-scrum-joins-the-team-and-understands-she-is-accountable-for-the-product-backlog-however-she-is-unsure-about-the-purpose-of-the-product-backlog-she-has-read-that-the-product-backlog-should-be-a-list-of-all-user-features-for-the-product-she-goes-to-the-scrum-master-asking-where-to-put-the-other-types-of-requirements-that-are-going-to-be-taken-into-account-are-all-of-the-following-types-of-requirements-acceptable-on-a-product-backlog-stability-requirements-performance-requirements-product-functionality-documentation-fixes-choose-the-best-answer) |
-| 5   | [What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)](#what-variables-should-a-product-owner-consider-when-ordering-the-product-backlog-choose-the-best-answer) |
-| 6   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#it-is-mandatory-for-the-product-owner-to-monitor-and-share-progress-of-the-product-backlog-by-using-which-method-choose-the-best-answer) |
-| 8   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#question8) |
-| 13   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#question13) |
-| 19   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#question19) |
-| 25   | [True or False: The value delivered by a product can only be determined by revenue.](#question25) |
-| 28   | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#question28) |
-| 31   | [When can the Product Backlog be updated? (choose the best answer)](#question31) |
-| 33   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#question33) |
-| 34   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#question34) |
-| 35   | [Who is accountable for creating a valuable and usable Increment each Sprint? (choose the best answer)](#question35) |
-| 36   | [What are two effective ways for the Scrum Team to make non-functional requirements visible? (choose the best two answers)](#question36) |
-| 38   | [The Cone of Uncertainty can be used to do what? (choose the best answer)](#question38) |
-| 41   | [Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)](#question41) |
-| 42   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#question42) |
-| 43   | [Which of the following are criteria to order Product Backlog Items? (choose all that apply)](#question43) |
-| 52   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent? (choose the best two answers)](#question52) |
-| 53   | [Why is it important that there is only one Product Owner per product? (choose the best three answers)](#question53)|
-| 54   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog? (choose the best two answers)](#question54) |
-| 55   | [True or False: Product Owners must create clear and unambiguous acceptance criteria for each Product Backlog Item before it may be selected in Sprint Planning.](#question55) |
-| 56   | [What three things might a Scrum Product Owner focus on to ensure the product delivers value? (choose the best three answers)](#question56) |
-| 57   | [How often should customer satisfaction be measured? (choose the best answer)](#question57) |
-| 58   | [Why would you expect a Product Owner to care that the Scrum Team adheres to its Definition of Done? (choose the best two answers)](#question58) |
-| 59   | [A product's success is measured by: (choose the best three answers)](#question59) |
-| 60   | [True or False: Dependencies could influence how the Product Owner orders Product Backlog Items.](#question60) |
-| 61   | [Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency? (choose the best answer)](#question61) |
-| 62   | [What is the responsibility of the Product Owner in crafting the Sprint Goal? (choose the best answer)](#question62) |
-| 63   | [When should the Product Owner update the project plan? (choose the best answer)](#question63) |
-| 64   | [A Product Backlog is: (choose the best three answers)](#question64) |
-| 65   | [How much time must a Product Owner spend with the Developers? (choose the best answer)](#question65) |
-| 66   | [Which metrics will help a Product Owner determine if a product delivering value? (choose the best two answers)](#question66) |
-| 68   | [True or False: All planned work for the Product done by the Scrum Team must originate from the Product Backlog.](#question68) |
-| 69   | [What typically happens if the Product Backlog is not sufficiently clear at Sprint Planning? (choose the best answer)](#question69) |
-| 70   | [True or False: During the Sprint Review the stakeholder's role is to reorder the Product Backlog.](#question70) |
-| 71   | [True or False: A Product Owner can measure success by an increase in the team's velocity.](#question71) |
-| 72   | [What might indicate to a Product Owner that she needs to work more with the Scrum Team? (choose the best answer)](#question72) |
-| 73   | [What are two effective ways for a Scrum Team to ensure security concerns are satisfied? (choose the best two answers)](#question73) |
-| 74   | [You are the Scrum Master for four Scrum Teams working from the same Product Backlog. Several of the Developers come to you complaining that work identified for the upcoming two Sprints will require full-time commitment from a specialist who is external to the teams. What should the Scrum Master consider in this situation? (choose the best two answers)](#question74) |
-| 75   | [In order to maximize the value of the product, a Product Owner needs awareness of the following: (choose the best answer)](#question75) |
-| 76   | [The Developers ask their Product Owner to re-order the Product Backlog. The team is waiting for an external supplier to deliver a component. Without that component there will not be enough work in the next Sprint to occupy the full team. As the Scrum Master, what advice would you give the Product Owner? (choose the best answer)](#question76) |
-| 77   | [A Project Manager working with your Scrum Team has raised concerns about progress and money spent. What are the two best responses? (choose the best two answers)](#question77) |
-| 78   | [The Product Owner is the person who will be held accountable if a product does not achieve its goals or deliver value. Does this mean that the Product Owner has final say over the Definition of Done? (choose the best answer)](#question78) |
-| 79   | [Which statement best describes Scrum? (choose the best answer)](#question79) |
-| 80   | [What is a Product Owner typically responsible for during a Sprint? (choose the best two answers)](#question80) |
-| 81   | [True or False: Product Owners must specify complete acceptance criteria for a Product Backlog Item before the Developers can select the item in Sprint Planning.](#question81) |
-| 82   | [Who is accountable for tracking the remaining work toward the Sprint Goal? (choose the best answer)](#question82) |
-| 83   | [The Scrum Team should have all the skills needed to: (choose the best answer)](#question83) |
-| 84   | [Which three of the following are timeboxed events in Scrum? (choose the best three answers)](#question84) |
-| 85   | [Who starts the Daily Scrum? (choose the best answer)](#question85) |
-| 86   | [Which of the following services are appropriate for a Scrum Master in regard to the Daily Scrum? (choose the best answer)](#question86) |
-| 87   | [True or False: Sprint Reviews are an opportunity to collect stakeholder feedback.](#question87) |
-| 88   | [Who is on the Scrum Team? (choose all that apply)](#question88) |
-| 89   | [What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams? (choose the best answer)](#question89) |
-| 90   | [Which of the following are true about the length of the Sprint? (choose the best answer)](#question90) |
-| 91   | [Which are appropriate topics for discussion in a Sprint Retrospective? (choose the best three answers)](#question91) |
-| 92   | [True or False: The Product Owner makes sure the correct stakeholders are invited to the Sprint Retrospective. They might have important instructions for team improvements.](#question92) |
-| 93   | [Who has the final decision about the order of items in the Product Backlog? (choose the best answer)](#question93) |
-| 94   | [What are the two primary ways a Scrum Master helps a Scrum Team work at its highest level of productivity? (choose the best two answers)](#question94) |
-| 95   | [During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog? (choose the best answer)](#question95) |
-| 96   | [True or False: A high-performance Scrum Team ensures that each Increment is complete by running a Release Sprint.](#question96) |
-| 97   | [The Developers select a set of Product Backlog Items for a Sprint Backlog with the intent to get the selected items done by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)](#question97) |
-| 98   | [What are three benefits of self-management? (choose the best three answers)](#question98) |
-| 99   | [A new Developer is having continuing conflicts with existing members of the Scrum Team, which is impacting the delivery of the Increment. If necessary, who is responsible for removing the Developer from the Scrum Team? (choose the best answer)](#question99) |
-| 100   | [A Product Owner is accountable for maximizing the value of the product that is the result of the work of the Scrum Team. Which of the following can be delegated to others, while the Product Owner remains accountable for the work? (choose the best two answers)](#question100) |
-| 101   | [During a Sprint Retrospective, the Developers propose moving the Daily Scrum to only occur on Tuesdays and Thursdays. Which two are the most appropriate responses for the Scrum Master to recommend? (choose the best two answers)](#question101) |
-| 102   | [During the Sprint Retrospective a Scrum Team has identified several high priority process improvements. Which of the following statements is most accurate? (choose the best answer)](#question102) |
-| 103   | [How is management that is external to the Scrum Team involved in the Daily Scrum? (choose the best answer)](#question103) |
-| 104   | [How much time is required after a Sprint to prepare for the next Sprint? (choose the best answer)](#question104) |
-| 105   | [How much work is required of the Developers to complete a Product Backlog Item selected during the Sprint Planning? (choose the best answer)](#question105) |
-| 106   | [How often should Scrum Team membership change? (choose the best answer)](#question106) |
-| 107   | [If Product Backlog Refinement is needed, when is the ideal time for refinement to take place and who should participate? (choose the best two answers)](#question107) |
-| 108   | [Scrum requires that the Product Owner must use which of the following items? (choose all that apply)](#question108) |
-| 109   | [True or False: A Product Owner with multiple teams working on one product should maintain separate Product Backlogs for each team.](#question109) |
-| 110   | [True or False: The Scrum Team is accountable for releasing the most valuable product.](#question110) |
-| 111   | [What are three advantages of a Product Owner sharing a clearly defined Product Goal with the Scrum Team? (choose the best three answers)](#question111) |
-| 112   | [Which approach is best for Scrum Teams in order to produce valuable Increments? (choose the best answer)](#question112) |
-| 113   | [Who is accountable for managing the progress of work during a Sprint? (choose the best answer)](#question113) |
-| 114   | [Who is part of the discussion about which Product Backlog Items are selected for a Sprint? (choose the best answer)](#question114) |
-| 115   | [Why does the Product Owner want the Developers to adhere to its Definition of Done? (choose the best answer)](#question115) |
-| 116   | [Your management has asked you to take the lead in the development of a new product. Six teams new to Scrum will build this product. You have gathered a number of requirements and ideas into an early form of a Product Backlog. How would you minimize dependencies between the Scrum Teams? (choose the best answer)](#question116) |
-| 117   | [What does it mean to say that an event has a timebox? (choose the best answer)](#question117) |
-| 118   | [True or False: A Scrum Master fulfills the same role as a traditional Project Manager.](#question118) |
-| 119   | [When is it most appropriate for a Scrum Team to change the Definition of Done? (choose the best answer)](#question119) |
-| 120   | [True or False: A Product Owner should measure product value by the increase in the team's velocity.](#question120) |
-| 121   | [Why do the Developers need a Sprint Goal? (choose the best answer)](#question121) |
-| 122   | [Who creates a Product Backlog Item's estimate? (choose the best answer)](#question122) |
-| 123   | [True or False: Every Scrum Team must have a Product Owner and a Scrum Master.](#question123) |
-| 124   | [Which topics should be discussed in the Sprint Review? (choose the best answer)](#question124) |
-| 125   | [Five new Scrum Teams have been created to build one product. A few of the Developers on one of the Scrum Teams ask the Scrum Master who will coordinate the work with the other teams. What should the Scrum Master do? (choose the best answer)](#question125) |
-| 126   | [True or False: Cross-functional teams are optimized to work on one component or layer of a system only.](#question126) |
-| 127   | [What are two responsibilities of Testers in a Scrum Team? (choose the best two answers)](#question127) |
-| 128   | [Which two ways of creating Scrum Teams are consistent with Scrum's values? (choose the best two answers)](#question128) |
-| 129   | [True or False: The Scrum Team is accountable for creating a valuable Increment every Sprint.](#question129) |
-| 130   | [When does the next Sprint begin? (choose the best answer)](#question130) |
-| 131   | [True or False: An Increment must be released to customers or users at the end of each Sprint.](#question131) |
-| 132   | [What is the accountability of the Product Owner during Sprint 0? (choose the best answer)](#question132) |
-| 132   | [True or False: When there are multiple teams working on one product, each Scrum Team should have a separate Product Owner.](#question132)
-| 133   | [Which answer best describes the topics covered in Sprint Planning? (choose the best answer)](#question133) |
-| 134   | [Which of the following might the Scrum Team discuss during a Sprint Retrospective? (choose the best answer)](#question134) |
-| 135   | [An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)](#question135) |
-| 136   | [Which three of the following are feedback loops in Scrum? (choose the best three answers)](#question136) |
-| 137   | [The IT manager asks the Scrum Team for a status report describing the progress throughout the Sprint. The Scrum Team ask the Scrum Master for advice. The Scrum Master should: (choose the best answer)](#question137) |
-| 138   | [What happens if the Scrum Team cannot complete its work by the end of the Sprint? (choose the best answer)](#question138) |
-| 139   | [User documentation is part of your Definition of Done. However, there are not enough Technical Writers for all teams. Your Scrum Team does not have a Technical Writer. What should the Scrum Team do? (choose the best answer)](#question139) |
-| 140   | [The Scrum Master observes the Product Owner is struggling with ordering the Product Backlog. What is an appropriate action for the Scrum Master to take? (choose the best answer)](#question140) |
-| 141   | [When must the Product Owner be present at the Daily Scrum? (choose the best answer)](#question141) |
-| 141   | [How much of the Sprint Backlog must be defined during the Sprint Planning event? (choose the best answer)](#question141) |
-| 141   | [You are the Scrum Master of a new, to be developed Product. Development is going to require 45 people. What is a good first question for you to suggest the group thinks about when forming into teams? (choose the best answer)](#question141) |
-| 141   | [What activities would a Product Owner typically undertake in the period between the end of the current Sprint and the start of the next Sprint? (choose the best answer)](#question141) |
-| 142   | [Several Sprints into a project, the Product Owner tells the Scrum Master that a key stakeholder just started using the product. The stakeholder is unhappy with the quality of the product. What are two good options for the Scrum Master? (choose the best two answers)](#question142) |
-| 143   | [As the Developers start work during the Sprint, they realize they have selected too much work to finish the Sprint. What should they do? (choose the best answer)](#question143) |
-| 144   | [Who does the work to make sure Product Backlog Items conform to the Definition of Done? (choose the best answer)](#question144) |
-| 145   | [Which two things are appropriate for a Scrum Master to do if the Scrum Team does not have the tools and environment to completely finish each selected Product Backlog Item? (choose the best two answers)](#question145) |
-| 146   | [For the purpose of transparency, when does Scrum say a valuable and useful Increment must be available? (choose the best answer)](#question146) |
-| 147   | [Who is accountable for clearly expressing Product Backlog Items?](#question147) |
-| 148   | [Which statement best describes the Sprint Review? (choose the best answer)](#question148) |
-| 148   | [Which three of the following are true about Scrum? (choose the best three answers)](#question148) |
-| 148   | [As the Sprint Planning progresses, the Developers realize that the workload may be greater than their capacity to complete the work. Which two are valid actions? (choose the best two answers)](#question148) |
-| 148   | [True or False: The Product Owner makes sure the Developers select enough from the Product Backlog for a Sprint to satisfy the stakeholders.](#question148) |
-| 148   | [The Daily Scrum is an event that happens every day. What would be three key concerns if the frequency were to be Iowered to every two or three days? (choose the best three answers)](#question148) |
-| 149   | [True or False: To get started in terms of what to build, Scrum requires no more than a Product Owner with enough ideas for a first Sprint, Developers to implement those ideas, and a Scrum Master to help guide the process.](#question149) |
-| 149   | [How should a Scrum Team deal with non-functional requirements? (choose the best answer)](#question149) |
-| 150   | [At the end of a Sprint, a Product Backlog Item worked on during the Sprint does not meet the Definition of Done. What two things should happen with the undone Product Backlog Item?](#question150) |
-| 151   | [Who should make sure everyone on the Scrum Team does their tasks for the Sprint? (choose the best answer)](#question151) |
-| 154   | [To create focus which of the following are most important to have ready when Sprint Planning begins?](#question154) |
-| 157   | [True or False: A Product Owner is essentially the same thing as a traditional Project Manager?](#question157) |
-| 158   | [Which two statements explain why the Definition of Done is important to the Product Owner?](#question158) |
-| 159   | [When does a Developer become accountable for the value of a Product Backlog Item selected for the Sprint?](#question159) |
-| 160   | [True or False: A first Sprint can start before the Product Owner has a complete and exhaustive Product Backlog in place.](#question160) |
-| 193   | [What is the Product Owner accountable for in Scrum?](#question193) |
-| 194   | [The Product Owner's authority to change and update the Product Backlog is unlimited, except for:](#questsion194) |
-| 198   | [The Developers find out during the Sprint that they are not likely to build everything they forecast. What would you expect a Product Owner to do?](#questsion198) |
-| 199   | [What should Developers do if the Product Owner is unavailable?](#questsion199) |
-| 200   | [What phrases best describe the relationship of the Product Owner and the Developers?](#questsion200) |
-| 201   | [What is the principal value of releasing an Increment?](#questsion201) |
-| 203   | [What best describes the relationship of the Product Owner and the stakeholders?](#questsion203) |
-| 204   | [What are typical activities for a Product Owner in a Sprint?](#questsion204) |
-| 206   | [Is the Product Owner required to be present at the Sprint Retrospective?](#questsion206) |
-| 207   | [Adaptation requires regular inspection. In what ways does the Product Owner contribute to the results achieved by inspection?](#questsion207) |
-| 208   | [Which description best fits the role of the Product Owner?](#questsion208) |
-| 209   | [Who creates the Definition of Done?](#questsion209) |
-| 209   | [In order to make investment decisions, the Product Owner is likely to look at the Total Cost of Ownership (TCO) of the product being built. What costs will a Product Owner take into account?](#question4) |
-| 210   | [A Product Owner is entitled to postpone the start of a new Sprint after the conclusion of a previous Sprint for the following reason:](#questsion210) |
-| 211   | [What two things best help the Product Owner manage the value of a product?](#questsion211) |
-| 212   | [What is a Product Backlog?](#questsion212) |
-| 213   | [To what extent does technical debt limit the value a Product Owner can get from a product?](#questsion213) |
-| 214   | [How does an organization know that a product built using Scrum is successful?](#questsion214) |
-| 215   | [What is the main reason for the Product Owner to be part of the Daily Scrum?](#questsion215) |
-| 216   | [True or False: The Definition of Done increases the transparency and is used by the Developers to forecast how many items can be picked from the Product Backlog.](#questsion216) |
-| 217   | [True or False: Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint.](#questsion217) |
-| 217   | [True or False: The Product Owner is the Scrum accountability (role = outdated term) responsible for engaging the product stakeholders.](#question217) |
-| 218   | [Which of the following topics can be part of the Sprint Retrospective?](#questsion218) |
-| 220   | [Which two statements are correct when four teams are working on one single product?](#questsion210) |
-| 221   | [Who is the owner of the Product Backlog?](#questsion221) |
-| 222   | [Which of the following are required by Scrum?](#questsion222) |
-| 223   | [True or False: The Definition of Ready is defined by the Product Owner.](#questsion223) |
-| 224   | [True or False: The Sprint Review is considered as a "formal meeting".](#questsion224) |
-| 225   | [Please select the answer representing a responsibility of a Product Owner.](#questsion225) |
-| 226   | [Which of the following should not be changed during a Sprint?](#questsion226) |
-| 227   | [Which of the following is a Scrum Value?](#questsion227) |
-| 228   | [Which statement is not correct about the Scrum Daily?](#questsion228) |
-| 229   | [Which questions does the Sprint Planning answer?](#questsion229) |
-| 230   | [True or False: More Velocity means more Value!](#questsion230) |
-| 231   | [Which two of the following are not correct about non-functional requirements?](#questsion231) |
-| 232   | [What should the Product Owner do when the Developers are ready to start the first Sprint, but the Product Backlog is not ready yet?](#questsion232) |
-| 233   | [True or False: The Definition of Done shouldn't be changed in the middle of the Sprint.](#questsion233) |
-| 234   | [What is the perfect number of hours a Developer should work in a week?](#questsion234) |
-| 235   | [Which of the following answers can be reasons for the Scrum Master to attend the Daily Scrum?](#questsion235) |
-| 236   | [What is the main role of a QA in Scrum?](#questsion236) |
-| 237   | [True or False: The Sprint Backlog content is emerging during the Sprint.](#questsion237) |
-| 238   | [How many Developers are in a Scrum Team?](#questsion238) |
-| 239   | [True or False: When n Scrum teams are working on a product, there should always be only 1 Product Owner but 1-n Scrum Masters.](#questsion239) |
-| 240   | [What is the main accountability (roles = outdated term) of a Project Manager in Scrum?](#questsion240) |
-| 241   | [What does a burn-down chart measure in a project?](#questsion241) |
-| 242   | [What may happen if the Scrum Teams composition changes during the project?](#questsion242) |
-| 243   | [Which statement explain when a Product Backlog Item is considered "Done"?](#questsion243) |
-| 244   | [How should the Developers react, when they realize that they have overcommitted themselves in a Sprint?](#questsion244) |
-| 245   | [Which statements about the Product Backlog are correct?](#questsion245) |
-| 246   | [Which of the following statements are correct about "technical debt"?](#question246) |
-| 247   | [The Developers have some trouble to understand a Sprint Backlog item – what should they do?](#question247) |
-| 248   | [What kind of testing should be done during the Sprint?](#question248) |
-| 249   | [Which two statements about the Developers are correct?](#question249) |
-| 250   | [Which Scrum accountability (role = outdated term) is responsible to do all the work required to turn Product Backlog in potentially releasable items?](#question250) |
-| 251   | [True or False: The Product Owner has to maximize the value – more features always bring more value. Therefore, the Product Owner has to maximize the number of features in a Sprint.](#question251) |
-| 252   | [Yes or No: The Product Owner can ask a developer to order the Product Backlog Items instead of him/her – is that okay?](#question252) |
-| 253   | [Which accountability (role = outdated term) in Scrum is responsible for explaining the items of the Product Backlog?](#question253) |
-| 254   | [Which two of the following services are expected from a Scrum Master to a Product Owner?](#question254) |
-| 255   | [True or False: Only the Developers are influencing the Definition of Done, no one else.](#question255) |
-| 256   | [Which of the following are benefits of self-managing teams?](#question256) |
-| 257   | [When can a Sprint be cancelled?](#question257) |
-| 258   | [If the Product Owner has concerns about the Definition of Done (DoD) – what should the Product Owner do?](#question258) |
-| 259   | [Which of the following are not required by Scrum?](#question259) |
-| 260   | [What does it mean for a team to be a "cross-functional" Team?](#question260) |
-| 261   | [Which two of the following answers are not correct about the Product Owner accountability (role = outdated term)?](#question261) |
-| 262   | [True or False: Scrum can only be used to develop products, not to maintain/sustain existing ones.](#question262) |
-| 263   | [What can be done to reduce technical debt?](#question263) |
-| 264   | [True or False: The Scrum Master can decide which Scrum Events are required in the Scrum project.](#question264) |
-| 265   | [Which of the following is not a feedback loop in Scrum?](#question265) |
-| 266   | [True or False: When n Scrum teams are working on a product, there are n Sprint Backlogs but only 1 Product Backlog.](#question266) |
-| 267   | [True or False: Sprint Review is not a formal meeting.](#question267) |
-| 268   | [When is it allowed for a Scrum Master to cancel a Sprint?](#question268) |
-| 269   | [What happens usually between a Sprint Retrospective and the next Sprint Planning?](#question269) |
-| 270   | [True or False: When 3 products are developed using Scrum, there can be only a single Product Owner for all products.](#question270) |
-| 271   | [Which of the following is correct about the Product Vision?](#question271) |
-| 272   | [Which statement describes best how the Product Backlog is impacted by changes in the product environment?](#question272) |
-| 273   | [What does a Product Owner do in the Scrum Event Sprint Retrospective?](#question273) |
-| 274   | [Which of the following are not allowed in Scrum?](#question274) |
-| 275   | [True or False: When two Scrum Teams are working on the same product you should normalize their estimations to be able to compare their performance.](#question275) |
-| 276   | [Which statement about the Product Backlog is correct?](#question276) |
-| 277   | [True or False: The Product Owner can nominate a "Lead Developer" as a single point of contact.](#question277) |
-| 278   | [Which 3 of the following are time boxed Scrum events?](#question278) |
-| 279   | [Which of the following answers is correct about the Product Owner accountability (role = outdated term)?](#question279) |
-| 280   | [Which statement is correct about the Sprint Backlog?](#question280) |
-| 281   | [How much of the overall working time should the Product Owner spend with the Developers?](#question281) |
-| 282   | [True or False: Two Scrum Teams are working on the same product. Do they have to share the same Definition of Ready?](#question282) |
-| 283   | [Based on which criteria should the Product Owner order the Product Backlog Items?](#question283) |
-| 284   | [The satisfaction of which stakeholder is the most important?](#question284) |
-| 285   | [True or False: It is not allowed that the Product Owner is a Developer (part of the "Developers") at the same time.](#question285) |
-| 286   | [Which 2 of the following are an indication for an item to be ready for development?](#question286) |
-| 287   | [True or False: To be self-management means, that it is okay for the Developers to don't do the Daily Scrum.](#question287) |
-| 288   | [The Product Owner is not available and cannot answer the developers questions before the Sprint Planning. Therefore, the developers feel a high level of uncertainty to make a reliable forecast. What should the team do?](#question288) |
-| 289   | [Which of the following should a Scrum Master do to start a project?](#question289) |
-| 290   | [True or False: All items in the Product Backlog have usually the same size.](#question290) |
-| 291   | [Which two of the following are typical Daily Scrum outcomes?](#question291) |
-| 292   | [True or False: Does a Product Backlog Item have an item "Owner".](#question292) |
-| 293   | [True or False: The Product Owner is not part of the Scrum Team.](#question293) |
-| 294   | [Which statements describe best what happens in an organization if Scrum is introduced but the Scrum terminology is tailored to fit into the organizations environment?](#question294) |
-| 295   | [Which Scrum accountabilities (roles = outdated term) have to attend the Daily Scrum?](#question295) |
-| 296   | [The Developers have an internal conflict with one of the team members. What should the Product Owner do?](#question296) |
-| 297   | [Which of the following describes best the Sprint Review?](#question297) |
-| 298   | [True or False: In each Sprint Backlog at least one high priority process improvement items is existing.](#question298) |
-| 299   | [True or False: The "Definition of Ready" shows the team when Product Backlog Items are ready to be selected for the Sprint Backlog.](#question299) |
-| 300   | [Which two of the following contribute the most to the Scrum Value "Focus"?](#question300) |
-| 301   | [Who is required to attend the Daily Scrum?](#question301) |
-| 302   | [How much time is needed between a Sprint Retrospective and the next Sprint Planning to prepare the Product Backlog?](#question302) |
-| 303   | [Which of the following best describes the Scrum Pillar "Transparency"?](#question303) |
-| 304   | [True or False: The Product Backlog is baselined before the Sprint 0.](#question304) |
-| 305   | [Which of the following are Scrum Values?](#question305) |
-| 306   | [True or False: Self-management means, that the team can decide which Scrum events are needed.](#question306) |
-| 307   | [True or False: Following Scrum, there can be a maximum of one release per Sprint.](#question307) |
-| 308   | [Which Scrum accountability (role = outdated term) is owning the Sprint Backlog?](#question308) |
-| 309   | [Which of the following are mandatory in Scrum?](#question309) |
-| 310   | [True or False: The Scrum Master can decide which Scrum Artifacts are required in the Scrum project.](#question310) |
-| 311   | [How is budgeting done in a Scrum Project?](#question311) |
-| 312   | [The collaboration between the Developers and the Product Owner is very important for the product. Which of the following is the least productive way for the Scrum Master to improve this collaboration?](#question312) |
-| 313   | [Which Scrum Event can be compared to the use of a "lessons learned meeting"?](#question313) |
-| 314   | [True or False: The Product Backlog should have just enough detail.](#question314) |
-| 315   | [In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)](#question315) |
-| 316   | [Developers are self-managing, which of the following do they manage? (choose the best answer)](#question316) |
-| 317   | [When the Developers determine that they will not be able to finish the complete forecast, who needs to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)](#question317) |
-| 319   | [A Scrum Team is a cohesive unit of professionals that consists of which of the following? (choose all that apply)](#question316) |
-| 322   | [Which of the following is required by Scrum? (choose the best answer)](#question322) |
-| 323   | [A Scrum Master is working with a Scrum Team that has Developers in different physical locations. The Developers meet in a variety of meeting rooms and have much to do logistically (for example: reserve meeting rooms and set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)](#question323) |
-| 324   | [What does it mean for a Scrum Team to be cross-functional? (choose the best answer)](#question324) |
-| 325   | [The job of a Product Owner focuses on the following: (choose the best two answers)](#question325) |
-| 326   | [When multiple Scrum Teams are working on the same product, should all of their Increments be integrated every Sprint? (choose the best answer)](#question326) |
-| 327   | [Which statement best describes a Product Owner's responsibility? (choose the best answer)](#question327) |
-| 328   | [Which two things should the Scrum Team do during the first Sprint? (choose the best two answers) ](#question328) |
-| 329   | [What is the timebox for the Sprint Planning event? (choose the best answer)](#question329) |
-| 330   | [Who owns the Sprint Backlog? (choose the best answer)](#question330) |
-| 331   | [Which of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)](#question331) |
-| 332   | [What is the Product Owner responsible for during the Sprint Retrospective? (choose the best answer)](#what-is-the-product-owner-responsible-for-during-the-sprint-retrospective-choose-the-best-answer) |
-
-
+| 2   | [What variables should a Product Owner consider when ordering the Product Backlog? (choose the best answer)](#what-variables-should-a-product-owner-consider-when-ordering-the-product-backlog-choose-the-best-answer) |
+| 3   | [It is mandatory for the Product Owner to monitor and share progress of the Product Backlog by using which method? (choose the best answer)](#it-is-mandatory-for-the-product-owner-to-monitor-and-share-progress-of-the-product-backlog-by-using-which-method-choose-the-best-answer) |
+| 4   | [The Product Owner manages the Product Backlog. Who is accountable for estimating the effort to complete the Product Backlog Items? (choose the best answer)](#the-product-owner-manages-the-product-backlog-who-is-accountable-for-estimating-the-effort-to-complete-the-product-backlog-items-choose-the-best-answer) |
+| 5   | [How important is it for a product owner to order product backlog items by using value points?](#how-important-is-it-for-a-product-owner-to-order-product-backlog-items-by-using-value-points)
+| 6   | [True or False: The Sprint Review is the only time at which stakeholder feedback is taken into account.](#true-or-false-the-sprint-review-is-the-only-time-at-which-stakeholder-feedback-is-taken-into-account) |
+| 7   | [How do timeboxes help the Product Owner and the other members of the Scrum Team validate assumptions, adapt, and maximize the value of their product?](#how-do-timeboxes-help-the-product-owner-and-the-other-members-of-the-scrum-team-validate-assumptions-adapt-and-maximize-the-value-of-their-product) |
+| 8   | [True or False: The value delivered by a product can only be determined by revenue.](#true-or-false-the-value-delivered-by-a-product-can-only-be-determined-by-revenue) |
+| 9   | [True or False: The Scrum Team must choose at least one high priority process improvement item, identified during the Sprint Retrospective, and place it in the Sprint Backlog.](#true-or-false-the-scrum-team-must-choose-at-least-one-high-priority-process-improvement-item-identified-during-the-sprint-retrospective-and-place-it-in-the-sprint-backlog) |
+| 10   | [When can the Product Backlog be updated? (choose the best answer)](#when-can-the-product-backlog-be-updated-choose-the-best-answer) |
+| 11   | [True or False: The Product Owner should have the entire Product Backlog documented in detail before the first Sprint can start?](#true-or-false-the-product-owner-should-have-the-entire-product-backlog-documented-in-detail-before-the-first-sprint-can-start) |
+| 12   | [True or False: The Sprint Backlog is a result of Sprint Planning, and it includes the Sprint Goal.](#true-or-false-the-sprint-backlog-is-a-result-of-sprint-planning-and-it-includes-the-sprint-goal) |
+| 13   | [Who is accountable for creating a valuable and usable Increment each Sprint? (choose the best answer)](#who-is-accountable-for-creating-a-valuable-and-usable-increment-each-sprint-choose-the-best-answer) |
+| 14   | [What are two effective ways for the Scrum Team to make non-functional requirements visible? (choose the best two answers)](#what-are-two-effective-ways-for-the-scrum-team-to-make-non-functional-requirements-visible-choose-the-best-two-answers) |
+| 15   | [The Cone of Uncertainty can be used to do what? (choose the best answer)](#the-cone-of-uncertainty-can-be-used-to-do-what-choose-the-best-answer) |
+| 16   | [Which is NOT a valid consideration when ordering a Product Backlog? (choose the best answer)](#which-is-not-a-valid-consideration-when-ordering-a-product-backlog-choose-the-best-answer) |
+| 17   | [True or False: The Product Owner must write all of the Product Backlog Items (e.g. user stories, requirements, etc.) on the Product Backlog before handing them over to the Scrum Team.](#true-or-false-the-product-owner-must-write-all-of-the-product-backlog-items-eg-user-stories-requirements-etc-on-the-product-backlog-before-handing-them-over-to-the-scrum-team) |
+| 18   | [Which of the following are criteria to order Product Backlog Items? (choose all that apply)](#which-of-the-following-are-criteria-to-order-product-backlog-items-choose-all-that-apply) |
+| 19   | [All Scrum artifacts must be transparent to ensure sufficient accuracy of inspection. Which two measures ensure that the Product Backlog is transparent? (choose the best two answers)](#all-scrum-artifacts-must-be-transparent-to-ensure-sufficient-accuracy-of-inspection-which-two-measures-ensure-that-the-product-backlog-is-transparent-choose-the-best-two-answers) |
+| 20   | [Why is it important that there is only one Product Owner per product? (choose the best three answers)](#why-is-it-important-that-there-is-only-one-product-owner-per-product-choose-the-best-three-answers)|
+| 21   | [Which of the following practices might help the Product Owner minimize waste in developing and sustaining the Product Backlog? (choose the best two answers)](#which-of-the-following-practices-might-help-the-product-owner-minimize-waste-in-developing-and-sustaining-the-product-backlog-choose-the-best-two-answers) |
+| 22   | [True or False: Product Owners must create clear and unambiguous acceptance criteria for each Product Backlog Item before it may be selected in Sprint Planning.](#true-or-false-product-owners-must-create-clear-and-unambiguous-acceptance-criteria-for-each-product-backlog-item-before-it-may-be-selected-in-sprint-planning) |
+| 23   | [What three things might a Scrum Product Owner focus on to ensure the product delivers value? (choose the best three answers)](#what-three-things-might-a-scrum-product-owner-focus-on-to-ensure-the-product-delivers-value-choose-the-best-three-answers) |
+| 24   | [How often should customer satisfaction be measured? (choose the best answer)](#how-often-should-customer-satisfaction-be-measured-choose-the-best-answer) |
+| 25   | [Why would you expect a Product Owner to care that the Scrum Team adheres to its Definition of Done? (choose the best two answers)](#why-would-you-expect-a-product-owner-to-care-that-the-scrum-team-adheres-to-its-definition-of-done-choose-the-best-two-answers) |
+| 26   | [A product's success is measured by: (choose the best three answers)](#a-products-success-is-measured-by-choose-the-best-three-answers) |
+| 27   | [True or False: Dependencies could influence how the Product Owner orders Product Backlog Items.](#true-or-false-dependencies-could-influence-how-the-product-owner-orders-product-backlog-items) |
+| 28   | [Scrum is based on empiricism. All of its artifacts must be transparent to ensure sufficient accuracy of inspection. How can the Scrum Team maintain the Product Backlog to maximize its transparency? (choose the best answer)](#scrum-is-based-on-empiricism-all-of-its-artifacts-must-be-transparent-to-ensure-sufficient-accuracy-of-inspection-how-can-the-scrum-team-maintain-the-product-backlog-to-maximize-its-transparency-choose-the-best-answer) |
+| 29   | [What is the responsibility of the Product Owner in crafting the Sprint Goal? (choose the best answer)](#what-is-the-responsibility-of-the-product-owner-in-crafting-the-sprint-goal-choose-the-best-answer) |
+| 30   | [When should the Product Owner update the project plan? (choose the best answer)](#when-should-the-product-owner-update-the-project-plan-choose-the-best-answer) |
+| 31   | [A Product Backlog is: (choose the best three answers)](#a-product-backlog-is-choose-the-best-three-answers) |
+| 32   | [How much time must a Product Owner spend with the Developers? (choose the best answer)](#how-much-time-must-a-product-owner-spend-with-the-developers-choose-the-best-answer) |
+| 33   | [Which metrics will help a Product Owner determine if a product delivering value? (choose the best two answers)](#which-metrics-will-help-a-product-owner-determine-if-a-product-delivering-value-choose-the-best-two-answers) |
+| 34   | [True or False: All planned work for the Product done by the Scrum Team must originate from the Product Backlog.](#true-or-false-all-planned-work-for-the-product-done-by-the-scrum-team-must-originate-from-the-product-backlog) |
+| 35   | [What typically happens if the Product Backlog is not sufficiently clear at Sprint Planning? (choose the best answer)](#what-typically-happens-if-the-product-backlog-is-not-sufficiently-clear-at-sprint-planning-choose-the-best-answer) |
+| 36   | [True or False: During the Sprint Review the stakeholder's role is to reorder the Product Backlog.](#true-or-false-during-the-sprint-review-the-stakeholders-role-is-to-reorder-the-product-backlog) |
+| 37   | [True or False: A Product Owner can measure success by an increase in the team's velocity.](#true-or-false-a-product-owner-can-measure-success-by-an-increase-in-the-teams-velocity) |
+| 38   | [What might indicate to a Product Owner that she needs to work more with the Scrum Team? (choose the best answer)](#what-might-indicate-to-a-product-owner-that-she-needs-to-work-more-with-the-scrum-team-choose-the-best-answer) |
+| 39   | [What are two effective ways for a Scrum Team to ensure security concerns are satisfied? (choose the best two answers)](#what-are-two-effective-ways-for-a-scrum-team-to-ensure-security-concerns-are-satisfied-choose-the-best-two-answers) |
+| 40   | [You are the Scrum Master for four Scrum Teams working from the same Product Backlog. Several of the Developers come to you complaining that work identified for the upcoming two Sprints will require full-time commitment from a specialist who is external to the teams. What should the Scrum Master consider in this situation? (choose the best two answers)](#you-are-the-scrum-master-for-four-scrum-teams-working-from-the-same-product-backlog-several-of-the-developers-come-to-you-complaining-that-work-identified-for-the-upcoming-two-sprints-will-require-full-time-commitment-from-a-specialist-who-is-external-to-the-teams-what-should-the-scrum-master-consider-in-this-situation-choose-the-best-two-answers) |
+| 41   | [In order to maximize the value of the product, a Product Owner needs awareness of the following: (choose the best answer)](#in-order-to-maximize-the-value-of-the-product-a-product-owner-needs-awareness-of-the-following-choose-the-best-answer) |
+| 42   | [The Developers ask their Product Owner to re-order the Product Backlog. The team is waiting for an external supplier to deliver a component. Without that component there will not be enough work in the next Sprint to occupy the full team. As the Scrum Master, what advice would you give the Product Owner? (choose the best answer)](#the-developers-ask-their-product-owner-to-re-order-the-product-backlog-the-team-is-waiting-for-an-external-supplier-to-deliver-a-component-without-that-component-there-will-not-be-enough-work-in-the-next-sprint-to-occupy-the-full-team-as-the-scrum-master-what-advice-would-you-give-the-product-owner-choose-the-best-answer) |
+| 43   | [A Project Manager working with your Scrum Team has raised concerns about progress and money spent. What are the two best responses? (choose the best two answers)](#a-project-manager-working-with-your-scrum-team-has-raised-concerns-about-progress-and-money-spent-what-are-the-two-best-responses-choose-the-best-two-answers) |
+| 44   | [The Product Owner is the person who will be held accountable if a product does not achieve its goals or deliver value. Does this mean that the Product Owner has final say over the Definition of Done? (choose the best answer)](#the-product-owner-is-the-person-who-will-be-held-accountable-if-a-product-does-not-achieve-its-goals-or-deliver-value-does-this-mean-that-the-product-owner-has-final-say-over-the-definition-of-done-choose-the-best-answer) |
+| 45   | [Which statement best describes Scrum? (choose the best answer)](#which-statement-best-describes-scrum-choose-the-best-answer) |
+| 46   | [What is a Product Owner typically responsible for during a Sprint? (choose the best two answers)](#what-is-a-product-owner-typically-responsible-for-during-a-sprint-choose-the-best-two-answers) |
+| 47   | [True or False: Product Owners must specify complete acceptance criteria for a Product Backlog Item before the Developers can select the item in Sprint Planning.](#true-or-false-product-owners-must-specify-complete-acceptance-criteria-for-a-product-backlog-item-before-the-developers-can-select-the-item-in-sprint-planning) |
+| 48   | [Who is accountable for tracking the remaining work toward the Sprint Goal? (choose the best answer)](#who-is-accountable-for-tracking-the-remaining-work-toward-the-sprint-goal-choose-the-best-answer) |
+| 49   | [The Scrum Team should have all the skills needed to: (choose the best answer)](#the-scrum-team-should-have-all-the-skills-needed-to-choose-the-best-answer) |
+| 50   | [Which three of the following are timeboxed events in Scrum? (choose the best three answers)](#which-three-of-the-following-are-timeboxed-events-in-scrum-choose-the-best-three-answers) |
+| 51   | [Who starts the Daily Scrum? (choose the best answer)](#who-starts-the-daily-scrum-choose-the-best-answer) |
+| 52   | [Which of the following services are appropriate for a Scrum Master in regard to the Daily Scrum? (choose the best answer)](#which-of-the-following-services-are-appropriate-for-a-scrum-master-in-regard-to-the-daily-scrum-choose-the-best-answer) |
+| 53   | [True or False: Sprint Reviews are an opportunity to collect stakeholder feedback.](#true-or-false-sprint-reviews-are-an-opportunity-to-collect-stakeholder-feedback) |
+| 54   | [Who is on the Scrum Team? (choose all that apply)](#who-is-on-the-scrum-team-choose-all-that-apply) |
+| 55   | [What tactic should a Scrum Master use to divide a group of 100 people into multiple Scrum Teams? (choose the best answer)](#what-tactic-should-a-scrum-master-use-to-divide-a-group-of-100-people-into-multiple-scrum-teams-choose-the-best-answer) |
+| 56   | [Which of the following are true about the length of the Sprint? (choose the best answer)](#which-of-the-following-are-true-about-the-length-of-the-sprint-choose-the-best-answer) |
+| 57   | [Which are appropriate topics for discussion in a Sprint Retrospective? (choose the best three answers)](#which-are-appropriate-topics-for-discussion-in-a-sprint-retrospective-choose-the-best-three-answers) |
+| 58   | [True or False: The Product Owner makes sure the correct stakeholders are invited to the Sprint Retrospective. They might have important instructions for team improvements.](#true-or-false-the-product-owner-makes-sure-the-correct-stakeholders-are-invited-to-the-sprint-retrospective-they-might-have-important-instructions-for-team-improvements) |
+| 59   | [Who has the final decision about the order of items in the Product Backlog? (choose the best answer)](#who-has-the-final-decision-about-the-order-of-items-in-the-product-backlog-choose-the-best-answer) |
+| 60   | [What are the two primary ways a Scrum Master helps a Scrum Team work at its highest level of productivity? (choose the best two answers)](#what-are-the-two-primary-ways-a-scrum-master-helps-a-scrum-team-work-at-its-highest-level-of-productivity-choose-the-best-two-answers) |
+| 61   | [During a Sprint, when is new work or further decomposition of work added to the Sprint Backlog? (choose the best answer)](#during-a-sprint-when-is-new-work-or-further-decomposition-of-work-added-to-the-sprint-backlog-choose-the-best-answer) |
+| 62   | [True or False: A high-performance Scrum Team ensures that each Increment is complete by running a Release Sprint.](#true-or-false-a-high-performance-scrum-team-ensures-that-each-increment-is-complete-by-running-a-release-sprint) |
+| 63   | [The Developers select a set of Product Backlog Items for a Sprint Backlog with the intent to get the selected items done by the end of the Sprint. Which three phrases best describe the purpose of a Definition of Done? (choose the best three answers)](#the-developers-select-a-set-of-product-backlog-items-for-a-sprint-backlog-with-the-intent-to-get-the-selected-items-done-by-the-end-of-the-sprint-which-three-phrases-best-describe-the-purpose-of-a-definition-of-done-choose-the-best-three-answers) |
+| 64   | [What are three benefits of self-management? (choose the best three answers)](#what-are-three-benefits-of-self-management-choose-the-best-three-answers) |
+| 65   | [A new Developer is having continuing conflicts with existing members of the Scrum Team, which is impacting the delivery of the Increment. If necessary, who is responsible for removing the Developer from the Scrum Team? (choose the best answer)](#a-new-developer-is-having-continuing-conflicts-with-existing-members-of-the-scrum-team-which-is-impacting-the-delivery-of-the-increment-if-necessary-who-is-responsible-for-removing-the-developer-from-the-scrum-team-choose-the-best-answer) |
+| 66   | [A Product Owner is accountable for maximizing the value of the product that is the result of the work of the Scrum Team. Which of the following can be delegated to others, while the Product Owner remains accountable for the work? (choose the best two answers)](#a-product-owner-is-accountable-for-maximizing-the-value-of-the-product-that-is-the-result-of-the-work-of-the-scrum-team-which-of-the-following-can-be-delegated-to-others-while-the-product-owner-remains-accountable-for-the-work-choose-the-best-two-answers) |
+| 67   | [During a Sprint Retrospective, the Developers propose moving the Daily Scrum to only occur on Tuesdays and Thursdays. Which two are the most appropriate responses for the Scrum Master to recommend? (choose the best two answers)](#during-a-sprint-retrospective-the-developers-propose-moving-the-daily-scrum-to-only-occur-on-tuesdays-and-thursdays-which-two-are-the-most-appropriate-responses-for-the-scrum-master-to-recommend-choose-the-best-two-answers) |
+| 68   | [During the Sprint Retrospective a Scrum Team has identified several high priority process improvements. Which of the following statements is most accurate? (choose the best answer)](#during-the-sprint-retrospective-a-scrum-team-has-identified-several-high-priority-process-improvements-which-of-the-following-statements-is-most-accurate-choose-the-best-answer) |
+| 69   | [How is management that is external to the Scrum Team involved in the Daily Scrum? (choose the best answer)](#how-is-management-that-is-external-to-the-scrum-team-involved-in-the-daily-scrum-choose-the-best-answer) |
+| 70   | [How much time is required after a Sprint to prepare for the next Sprint? (choose the best answer)](#how-much-time-is-required-after-a-sprint-to-prepare-for-the-next-sprint-choose-the-best-answer) |
+| 71   | [How much work is required of the Developers to complete a Product Backlog Item selected during the Sprint Planning? (choose the best answer)](#how-much-work-is-required-of-the-developers-to-complete-a-product-backlog-item-selected-during-the-sprint-planning-choose-the-best-answer) |
+| 72   | [How often should Scrum Team membership change? (choose the best answer)](#how-often-should-scrum-team-membership-change-choose-the-best-answer) |
+| 73   | [If Product Backlog Refinement is needed, when is the ideal time for refinement to take place and who should participate? (choose the best two answers)](#if-product-backlog-refinement-is-needed-when-is-the-ideal-time-for-refinement-to-take-place-and-who-should-participate-choose-the-best-two-answers) |
+| 74   | [Scrum requires that the Product Owner must use which of the following items? (choose all that apply)](#scrum-requires-that-the-product-owner-must-use-which-of-the-following-items-choose-all-that-apply) |
+| 75   | [True or False: A Product Owner with multiple teams working on one product should maintain separate Product Backlogs for each team.](#true-or-false-a-product-owner-with-multiple-teams-working-on-one-product-should-maintain-separate-product-backlogs-for-each-team) |
+| 76   | [True or False: The Scrum Team is accountable for releasing the most valuable product.](#true-or-false-the-scrum-team-is-accountable-for-releasing-the-most-valuable-product) |
+| 77   | [What are three advantages of a Product Owner sharing a clearly defined Product Goal with the Scrum Team? (choose the best three answers)](#what-are-three-advantages-of-a-product-owner-sharing-a-clearly-defined-product-goal-with-the-scrum-team-choose-the-best-three-answers) |
+| 78   | [Which approach is best for Scrum Teams in order to produce valuable Increments? (choose the best answer)](#which-approach-is-best-for-scrum-teams-in-order-to-produce-valuable-increments-choose-the-best-answer) |
+| 79   | [Who is accountable for managing the progress of work during a Sprint? (choose the best answer)](#who-is-accountable-for-managing-the-progress-of-work-during-a-sprint-choose-the-best-answer) |
+| 80   | [Who is part of the discussion about which Product Backlog Items are selected for a Sprint? (choose the best answer)](#who-is-part-of-the-discussion-about-which-product-backlog-items-are-selected-for-a-sprint-choose-the-best-answer) |
+| 81   | [Why does the Product Owner want the Developers to adhere to its Definition of Done? (choose the best answer)](#why-does-the-product-owner-want-the-developers-to-adhere-to-its-definition-of-done-choose-the-best-answer) |
+| 82   | [Your management has asked you to take the lead in the development of a new product. Six teams new to Scrum will build this product. You have gathered a number of requirements and ideas into an early form of a Product Backlog. How would you minimize dependencies between the Scrum Teams? (choose the best answer)](#your-management-has-asked-you-to-take-the-lead-in-the-development-of-a-new-product-six-teams-new-to-scrum-will-build-this-product-you-have-gathered-a-number-of-requirements-and-ideas-into-an-early-form-of-a-product-backlog-how-would-you-minimize-dependencies-between-the-scrum-teams-choose-the-best-answer) |
+| 83   | [What does it mean to say that an event has a timebox? (choose the best answer)](#what-does-it-mean-to-say-that-an-event-has-a-timebox-choose-the-best-answer) |
+| 84   | [True or False: A Scrum Master fulfills the same role as a traditional Project Manager.](#true-or-false-a-scrum-master-fulfills-the-same-role-as-a-traditional-project-manager) |
+| 85   | [When is it most appropriate for a Scrum Team to change the Definition of Done? (choose the best answer)](#when-is-it-most-appropriate-for-a-scrum-team-to-change-the-definition-of-done-choose-the-best-answer) |
+| 86   | [True or False: A Product Owner should measure product value by the increase in the team's velocity.](#true-or-false-a-product-owner-should-measure-product-value-by-the-increase-in-the-teams-velocity) |
+| 87   | [Why do the Developers need a Sprint Goal? (choose the best answer)](#why-do-the-developers-need-a-sprint-goal-choose-the-best-answer) |
+| 88   | [Who creates a Product Backlog Item's estimate? (choose the best answer)](#who-creates-a-product-backlog-items-estimate-choose-the-best-answer) |
+| 89   | [True or False: Every Scrum Team must have a Product Owner and a Scrum Master.](#true-or-false-every-scrum-team-must-have-a-product-owner-and-a-scrum-master) |
+| 90   | [Which topics should be discussed in the Sprint Review? (choose the best answer)](#which-topics-should-be-discussed-in-the-sprint-review-choose-the-best-answer) |
+| 91   | [Five new Scrum Teams have been created to build one product. A few of the Developers on one of the Scrum Teams ask the Scrum Master who will coordinate the work with the other teams. What should the Scrum Master do? (choose the best answer)](#five-new-scrum-teams-have-been-created-to-build-one-product-a-few-of-the-developers-on-one-of-the-scrum-teams-ask-the-scrum-master-who-will-coordinate-the-work-with-the-other-teams-what-should-the-scrum-master-do-choose-the-best-answer) |
+| 92   | [True or False: Cross-functional teams are optimized to work on one component or layer of a system only.](#true-or-false-cross-functional-teams-are-optimized-to-work-on-one-component-or-layer-of-a-system-only) |
+| 93   | [What are two responsibilities of Testers in a Scrum Team? (choose the best two answers)](#what-are-two-responsibilities-of-testers-in-a-scrum-team-choose-the-best-two-answers) |
+| 94   | [Which two ways of creating Scrum Teams are consistent with Scrum's values? (choose the best two answers)](#which-two-ways-of-creating-scrum-teams-are-consistent-with-scrums-values-choose-the-best-two-answers) |
+| 95   | [True or False: The Scrum Team is accountable for creating a valuable Increment every Sprint.](#true-or-false-the-scrum-team-is-accountable-for-creating-a-valuable-increment-every-sprint) |
+| 96   | [When does the next Sprint begin? (choose the best answer)](#when-does-the-next-sprint-begin-choose-the-best-answer) |
+| 97   | [True or False: An Increment must be released to customers or users at the end of each Sprint.](#true-or-false-an-increment-must-be-released-to-customers-or-users-at-the-end-of-each-sprint) |
+| 98   | [What is the accountability of the Product Owner during Sprint 0? (choose the best answer)](#what-is-the-accountability-of-the-product-owner-during-sprint-0-choose-the-best-answer) |
+| 99   | [True or False: When there are multiple teams working on one product, each Scrum Team should have a separate Product Owner.](#true-or-false-when-there-are-multiple-teams-working-on-one-product-each-scrum-team-should-have-a-separate-product-owner)
+| 100   | [Which answer best describes the topics covered in Sprint Planning? (choose the best answer)](#which-answer-best-describes-the-topics-covered-in-sprint-planning-choose-the-best-answer) |
+| 101   | [Which of the following might the Scrum Team discuss during a Sprint Retrospective? (choose the best answer)](#which-of-the-following-might-the-scrum-team-discuss-during-a-sprint-retrospective-choose-the-best-answer) |
+| 102   | [An organization has decided to adopt Scrum, but management wants to change the terminology to fit with terminology already used. What will likely happen if this is done? (choose the best answer)](#an-organization-has-decided-to-adopt-scrum-but-management-wants-to-change-the-terminology-to-fit-with-terminology-already-used-what-will-likely-happen-if-this-is-done-choose-the-best-answer) |
+| 103   | [Which three of the following are feedback loops in Scrum? (choose the best three answers)](#which-three-of-the-following-are-feedback-loops-in-scrum-choose-the-best-three-answers) |
+| 104   | [The IT manager asks the Scrum Team for a status report describing the progress throughout the Sprint. The Scrum Team ask the Scrum Master for advice. The Scrum Master should: (choose the best answer)](#the-it-manager-asks-the-scrum-team-for-a-status-report-describing-the-progress-throughout-the-sprint-the-scrum-team-ask-the-scrum-master-for-advice-the-scrum-master-should-choose-the-best-answer) |
+| 105   | [What happens if the Scrum Team cannot complete its work by the end of the Sprint? (choose the best answer)](#what-happens-if-the-scrum-team-cannot-complete-its-work-by-the-end-of-the-sprint-choose-the-best-answer) |
+| 106   | [User documentation is part of your Definition of Done. However, there are not enough Technical Writers for all teams. Your Scrum Team does not have a Technical Writer. What should the Scrum Team do? (choose the best answer)](#user-documentation-is-part-of-your-definition-of-done-however-there-are-not-enough-technical-writers-for-all-teams-your-scrum-team-does-not-have-a-technical-writer-what-should-the-scrum-team-do-choose-the-best-answer) |
+| 107   | [The Scrum Master observes the Product Owner is struggling with ordering the Product Backlog. What is an appropriate action for the Scrum Master to take? (choose the best answer)](#the-scrum-master-observes-the-product-owner-is-struggling-with-ordering-the-product-backlog-what-is-an-appropriate-action-for-the-scrum-master-to-take-choose-the-best-answer) |
+| 108   | [When must the Product Owner be present at the Daily Scrum? (choose the best answer)](#when-must-the-product-owner-be-present-at-the-daily-scrum-choose-the-best-answer) |
+| 109   | [How much of the Sprint Backlog must be defined during the Sprint Planning event? (choose the best answer)](#how-much-of-the-sprint-backlog-must-be-defined-during-the-sprint-planning-event-choose-the-best-answer) |
+| 110   | [You are the Scrum Master of a new, to be developed Product. Development is going to require 45 people. What is a good first question for you to suggest the group thinks about when forming into teams? (choose the best answer)](#you-are-the-scrum-master-of-a-new-to-be-developed-product-development-is-going-to-require-45-people-what-is-a-good-first-question-for-you-to-suggest-the-group-thinks-about-when-forming-into-teams-choose-the-best-answer) |
+| 111   | [What activities would a Product Owner typically undertake in the period between the end of the current Sprint and the start of the next Sprint? (choose the best answer)](#what-activities-would-a-product-owner-typically-undertake-in-the-period-between-the-end-of-the-current-sprint-and-the-start-of-the-next-sprint-choose-the-best-answer) |
+| 112   | [Several Sprints into a project, the Product Owner tells the Scrum Master that a key stakeholder just started using the product. The stakeholder is unhappy with the quality of the product. What are two good options for the Scrum Master? (choose the best two answers)](#several-sprints-into-a-project-the-product-owner-tells-the-scrum-master-that-a-key-stakeholder-just-started-using-the-product-the-stakeholder-is-unhappy-with-the-quality-of-the-product-what-are-two-good-options-for-the-scrum-master-choose-the-best-two-answers) |
+| 113   | [As the Developers start work during the Sprint, they realize they have selected too much work to finish the Sprint. What should they do? (choose the best answer)](#as-the-developers-start-work-during-the-sprint-they-realize-they-have-selected-too-much-work-to-finish-the-sprint-what-should-they-do-choose-the-best-answer) |
+| 114   | [Who does the work to make sure Product Backlog Items conform to the Definition of Done? (choose the best answer)](#who-does-the-work-to-make-sure-product-backlog-items-conform-to-the-definition-of-done-choose-the-best-answer) |
+| 115   | [Which two things are appropriate for a Scrum Master to do if the Scrum Team does not have the tools and environment to completely finish each selected Product Backlog Item? (choose the best two answers)](#which-two-things-are-appropriate-for-a-scrum-master-to-do-if-the-scrum-team-does-not-have-the-tools-and-environment-to-completely-finish-each-selected-product-backlog-item-choose-the-best-two-answers) |
+| 116   | [For the purpose of transparency, when does Scrum say a valuable and useful Increment must be available? (choose the best answer)](#for-the-purpose-of-transparency-when-does-scrum-say-a-valuable-and-useful-increment-must-be-available-choose-the-best-answer) |
+| 117   | [Who is accountable for clearly expressing Product Backlog Items?](#who-is-accountable-for-clearly-expressing-product-backlog-items-choose-the-best-answer) |
+| 118   | [Which statement best describes the Sprint Review? (choose the best answer)](#which-statement-best-describes-the-sprint-review-choose-the-best-answer) |
+| 119   | [Which three of the following are true about Scrum? (choose the best three answers)](#which-three-of-the-following-are-true-about-scrum-choose-the-best-three-answers) |
+| 120   | [As the Sprint Planning progresses, the Developers realize that the workload may be greater than their capacity to complete the work. Which two are valid actions? (choose the best two answers)](#as-the-sprint-planning-progresses-the-developers-realize-that-the-workload-may-be-greater-than-their-capacity-to-complete-the-work-which-two-are-valid-actions-choose-the-best-two-answers) |
+| 121   | [True or False: The Product Owner makes sure the Developers select enough from the Product Backlog for a Sprint to satisfy the stakeholders.](#true-or-false-the-product-owner-makes-sure-the-developers-select-enough-from-the-product-backlog-for-a-sprint-to-satisfy-the-stakeholders) |
+| 122   | [The Daily Scrum is an event that happens every day. What would be three key concerns if the frequency were to be Iowered to every two or three days? (choose the best three answers)](#the-daily-scrum-is-an-event-that-happens-every-day-what-would-be-three-key-concerns-if-the-frequency-were-to-be-lowered-to-every-two-or-three-days-choose-the-best-three-answers) |
+| 123   | [True or False: To get started in terms of what to build, Scrum requires no more than a Product Owner with enough ideas for a first Sprint, Developers to implement those ideas, and a Scrum Master to help guide the process.](#true-or-false-to-get-started-in-terms-of-what-to-build-scrum-requires-no-more-than-a-product-owner-with-enough-ideas-for-a-first-sprint-developers-to-implement-those-ideas-and-a-scrum-master-to-help-guide-the-process) |
+| 124   | [How should a Scrum Team deal with non-functional requirements? (choose the best answer)](#how-should-a-scrum-team-deal-with-non-functional-requirements-choose-the-best-answer) |
+| 125   | [At the end of a Sprint, a Product Backlog Item worked on during the Sprint does not meet the Definition of Done. What two things should happen with the undone Product Backlog Item?](#at-the-end-of-a-sprint-a-product-backlog-item-worked-on-during-the-sprint-does-not-meet-the-definition-of-done-what-two-things-should-happen-with-the-undone-product-backlog-item-choose-the-best-two-answers) |
+| 126   | [Who should make sure everyone on the Scrum Team does their tasks for the Sprint? (choose the best answer)](#who-should-make-sure-everyone-on-the-scrum-team-does-their-tasks-for-the-sprint-choose-the-best-answer) |
+| 127   | [To create focus which of the following are most important to have ready when Sprint Planning begins?](#to-create-focus-which-of-the-following-are-most-important-to-have-ready-when-sprint-planning-begins-choose-the-best-two-answers) |
+| 128   | [True or False: A Product Owner is essentially the same thing as a traditional Project Manager?](#true-or-false-a-product-owner-is-essentially-the-same-thing-as-a-traditional-project-manager) |
+| 129   | [Which two statements explain why the Definition of Done is important to the Product Owner?](#which-two-statements-explain-why-the-definition-of-done-is-important-to-the-product-owner) |
+| 130   | [When does a Developer become accountable for the value of a Product Backlog Item selected for the Sprint?](#when-does-a-developer-become-accountable-for-the-value-of-a-product-backlog-item-selected-for-the-sprint-choose-the-best-answer) |
+| 131   | [True or False: A first Sprint can start before the Product Owner has a complete and exhaustive Product Backlog in place.](#true-or-false-a-first-sprint-can-start-before-the-product-owner-has-a-complete-and-exhaustive-product-backlog-in-place) |
+| 132   | [What is the Product Owner accountable for in Scrum?](#what-is-the-product-owner-accountable-for-in-scrum) |
+| 133   | [The Product Owner's authority to change and update the Product Backlog is unlimited, except for:](#the-product-owners-authority-to-change-and-update-the-product-backlog-is-unlimited-except-for) |
+| 134   | [The Developers find out during the Sprint that they are not likely to build everything they forecast. What would you expect a Product Owner to do?](#the-developers-find-out-during-the-sprint-that-they-are-not-likely-to-build-everything-they-forecast-what-would-you-expect-a-product-owner-to-do) |
+| 135   | [What should Developers do if the Product Owner is unavailable?](#what-should-developers-do-if-the-product-owner-is-unavailable) |
+| 136   | [What phrases best describe the relationship of the Product Owner and the Developers?](#what-phrases-best-describe-the-relationship-of-the-product-owner-and-the-developers) |
+| 137   | [What is the principal value of releasing an Increment?](#what-is-the-principal-value-of-releasing-an-increment) |
+| 138   | [What best describes the relationship of the Product Owner and the stakeholders?](#what-best-describes-the-relationship-of-the-product-owner-and-the-stakeholders) |
+| 139   | [What are typical activities for a Product Owner in a Sprint?](#what-are-typical-activities-for-a-product-owner-in-a-sprint) |
+| 140   | [Is the Product Owner required to be present at the Sprint Retrospective?](#is-the-product-owner-required-to-be-present-at-the-sprint-retrospective) |
+| 141   | [Adaptation requires regular inspection. In what ways does the Product Owner contribute to the results achieved by inspection?](#adaptation-requires-regular-inspection-in-what-ways-does-the-product-owner-contribute-to-the-results-achieved-by-inspection) |
+| 142   | [Which description best fits the role of the Product Owner?](#which-description-best-fits-the-role-of-the-product-owner) |
+| 143   | [Who creates the Definition of Done?](#who-creates-the-definition-of-done) |
+| 144   | [In order to make investment decisions, the Product Owner is likely to look at the Total Cost of Ownership (TCO) of the product being built. What costs will a Product Owner take into account?](#in-order-to-make-investment-decisions-the-product-owner-is-likely-to-look-at-the-total-cost-of-ownership-tco-of-the-product-being-built-what-costs-will-a-product-owner-take-into-account) |
+| 145   | [A Product Owner is entitled to postpone the start of a new Sprint after the conclusion of a previous Sprint for the following reason:](#a-product-owner-is-entitled-to-postpone-the-start-of-a-new-sprint-after-the-conclusion-of-a-previous-sprint-for-the-following-reason) |
+| 146   | [What two things best help the Product Owner manage the value of a product?](#what-two-things-best-help-the-product-owner-manage-the-value-of-a-product) |
+| 147   | [What is a Product Backlog?](#what-is-a-product-backlog) |
+| 148   | [To what extent does technical debt limit the value a Product Owner can get from a product?](#to-what-extent-does-technical-debt-limit-the-value-a-product-owner-can-get-from-a-product) |
+| 149   | [How does an organization know that a product built using Scrum is successful?](#how-does-an-organization-know-that-a-product-built-using-scrum-is-successful) |
+| 150   | [What is the main reason for the Product Owner to be part of the Daily Scrum?](#what-is-the-main-reason-for-the-product-owner-to-be-part-of-the-daily-scrum) |
+| 151   | [True or False: The Definition of Done increases the transparency and is used by the Developers to forecast how many items can be picked from the Product Backlog.](#true-or-false-the-definition-of-done-increases-the-transparency-and-is-used-by-the-developers-to-forecast-how-many-items-can-be-picked-from-the-product-backlog) |
+| 152   | [True or False: Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint.](#true-or-false-sprint-planning-is-time-boxed-to-a-maximum-of-eight-hours-for-a-one-month-sprint) |
+| 153   | [True or False: The Product Owner is the Scrum accountability (role = outdated term) responsible for engaging the product stakeholders.](#true-or-false-the-product-owner-is-the-scrum-accountability-role-=-outdated-term-responsible-for-engaging-the-product-stakeholders) |
+| 154   | [Which of the following topics can be part of the Sprint Retrospective?](#which-of-the-following-topics-can-be-part-of-the-sprint-retrospective) |
+| 155   | [Which two statements are correct when four teams are working on one single product?](#which-two-statements-are-correct-when-four-teams-are-working-on-one-single-product) |
+| 156   | [Who is the owner of the Product Backlog?](#who-is-the-owner-of-the-product-backlog) |
+| 157   | [Which of the following are required by Scrum?](#which-of-the-following-are-required-by-scrum) |
+| 158   | [True or False: The Definition of Ready is defined by the Product Owner.](#true-or-false-the-definition-of-ready-is-defined-by-the-product-owner) |
+| 159   | [True or False: The Sprint Review is considered as a "formal meeting".](#true-or-false-the-sprint-review-is-considered-as-a-formal-meeting) |
+| 160   | [Please select the answer representing a responsibility of a Product Owner.](#please-select-the-answer-representing-a-responsibility-of-a-product-owner) |
+| 161   | [Which of the following should not be changed during a Sprint?](#which-of-the-following-should-not-be-changed-during-a-sprint) |
+| 162   | [Which of the following is a Scrum Value?](#which-of-the-following-is-a-scrum-value) |
+| 163   | [Which statement is not correct about the Scrum Daily?](#which-statement-is-not-correct-about-the-scrum-daily) |
+| 164   | [Which questions does the Sprint Planning answer?](#which-questions-does-the-sprint-planning-answer) |
+| 165   | [True or False: More Velocity means more Value!](#true-or-false-more-velocity-means-more-value!) |
+| 166   | [Which two of the following are not correct about non-functional requirements?](#which-two-of-the-following-are-not-correct-about-non-functional-requirements) |
+| 167   | [What should the Product Owner do when the Developers are ready to start the first Sprint, but the Product Backlog is not ready yet?](#what-should-the-product-owner-do-when-the-developers-are-ready-to-start-the-first-sprint-but-the-product-backlog-is-not-ready-yet) |
+| 168   | [True or False: The Definition of Done shouldn't be changed in the middle of the Sprint.](#true-or-false-the-definition-of-done-shouldnt-be-changed-in-the-middle-of-the-sprint) |
+| 169   | [What is the perfect number of hours a Developer should work in a week?](#what-is-the-perfect-number-of-hours-a-developer-should-work-in-a-week) |
+| 170   | [Which of the following answers can be reasons for the Scrum Master to attend the Daily Scrum?](#which-of-the-following-answers-can-be-reasons-for-the-scrum-master-to-attend-the-daily-scrum) |
+| 171   | [What is the main role of a QA in Scrum?](#what-is-the-main-role-of-a-qa-in-scrum) |
+| 172   | [True or False: The Sprint Backlog content is emerging during the Sprint.](#true-or-false-the-sprint-backlog-content-is-emerging-during-the-sprint) |
+| 173   | [How many Developers are in a Scrum Team?](#how-many-developers-are-in-a-scrum-team) |
+| 174   | [True or False: When n Scrum teams are working on a product, there should always be only 1 Product Owner but 1-n Scrum Masters.](#true-or-false-when-n-scrum-teams-are-working-on-a-product-there-should-always-be-only-1-product-owner-but-1-n-scrum-masters) |
+| 175   | [What is the main accountability (roles = outdated term) of a Project Manager in Scrum?](#what-is-the-main-accountability-roles-=-outdated-term-of-a-project-manager-in-scrum) |
+| 176   | [What does a burn-down chart measure in a project?](#what-does-a-burn-down-chart-measure-in-a-project) |
+| 177   | [What may happen if the Scrum Teams composition changes during the project?](#what-may-happen-if-the-scrum-teams-composition-changes-during-the-project) |
+| 178   | [Which statement explain when a Product Backlog Item is considered "Done"?](#which-statement-explain-when-a-product-backlog-item-is-considered-done) |
+| 179   | [How should the Developers react, when they realize that they have overcommitted themselves in a Sprint?](#how-should-the-developers-react-when-they-realize-that-they-have-overcommitted-themselves-in-a-sprint) |
+| 180   | [Which statements about the Product Backlog are correct?](#which-statements-about-the-product-backlog-are-correct) |
+| 181   | [Which of the following statements are correct about "technical debt"?](#which-of-the-following-statements-are-correct-about-technical-debt) |
+| 182   | [The Developers have some trouble to understand a Sprint Backlog item – what should they do?](#the-developers-have-some-trouble-to-understand-a-sprint-backlog-item-–-what-should-they-do) |
+| 183   | [What kind of testing should be done during the Sprint?](#what-kind-of-testing-should-be-done-during-the-sprint) |
+| 184   | [Which two statements about the Developers are correct?](#which-two-statements-about-the-developers-are-correct) |
+| 185   | [Which Scrum accountability (role = outdated term) is responsible to do all the work required to turn Product Backlog in potentially releasable items?](#which-scrum-accountability-role-=-outdated-term-is-responsible-to-do-all-the-work-required-to-turn-product-backlog-in-potentially-releasable-items) |
+| 186   | [True or False: The Product Owner has to maximize the value – more features always bring more value. Therefore, the Product Owner has to maximize the number of features in a Sprint.](#true-or-false-the-product-owner-has-to-maximize-the-value-–-more-features-always-bring-more-value-therefore-the-product-owner-has-to-maximize-the-number-of-features-in-a-sprint) |
+| 187   | [Yes or No: The Product Owner can ask a developer to order the Product Backlog Items instead of him/her – is that okay?](#yes-or-no-the-product-owner-can-ask-a-developer-to-order-the-product-backlog-items-instead-of-himher-–-is-that-okay) |
+| 188   | [Which accountability (role = outdated term) in Scrum is responsible for explaining the items of the Product Backlog?](#which-accountability-role-=-outdated-term-in-scrum-is-responsible-for-explaining-the-items-of-the-product-backlog) |
+| 189   | [Which two of the following services are expected from a Scrum Master to a Product Owner?](#which-two-of-the-following-services-are-expected-from-a-scrum-master-to-a-product-owner) |
+| 190   | [True or False: Only the Developers are influencing the Definition of Done, no one else.](#true-or-false-only-the-developers-are-influencing-the-definition-of-done-no-one-else) |
+| 191   | [Which of the following are benefits of self-managing teams?](#which-of-the-following-are-benefits-of-self-managing-teams) |
+| 192   | [When can a Sprint be cancelled?](#when-can-a-sprint-be-cancelled) |
+| 193   | [If the Product Owner has concerns about the Definition of Done (DoD) – what should the Product Owner do?](#if-the-product-owner-has-concerns-about-the-definition-of-done-dod-–-what-should-the-product-owner-do) |
+| 194   | [Which of the following are not required by Scrum?](#which-of-the-following-are-not-required-by-scrum) |
+| 195   | [What does it mean for a team to be a "cross-functional" Team?](#what-does-it-mean-for-a-team-to-be-a-cross-functional-team) |
+| 195   | [Which two of the following answers are not correct about the Product Owner accountability (role = outdated term)?](#which-two-of-the-following-answers-are-not-correct-about-the-product-owner-accountability-role-=-outdated-term) |
+| 197   | [True or False: Scrum can only be used to develop products, not to maintain/sustain existing ones.](#true-or-false-scrum-can-only-be-used-to-develop-products-not-to-maintainsustain-existing-ones) |
+| 198   | [What can be done to reduce technical debt?](#what-can-be-done-to-reduce-technical-debt) |
+| 199   | [True or False: The Scrum Master can decide which Scrum Events are required in the Scrum project.](#true-or-false-the-scrum-master-can-decide-which-scrum-events-are-required-in-the-scrum-project) |
+| 200   | [Which of the following is not a feedback loop in Scrum?](#which-of-the-following-is-not-a-feedback-loop-in-scrum) |
+| 201   | [True or False: When n Scrum teams are working on a product, there are n Sprint Backlogs but only 1 Product Backlog.](#true-or-false-when-n-scrum-teams-are-working-on-a-product-there-are-n-sprint-backlogs-but-only-1-product-backlog) |
+| 202   | [True or False: Sprint Review is not a formal meeting.](#true-or-false-sprint-review-is-not-a-formal-meeting) |
+| 203   | [When is it allowed for a Scrum Master to cancel a Sprint?](#when-is-it-allowed-for-a-scrum-master-to-cancel-a-sprint) |
+| 204   | [What happens usually between a Sprint Retrospective and the next Sprint Planning?](#what-happens-usually-between-a-sprint-retrospective-and-the-next-sprint-planning) |
+| 205   | [True or False: When 3 products are developed using Scrum, there can be only a single Product Owner for all products.](#true-or-false-when-3-products-are-developed-using-scrum-there-can-be-only-a-single-product-owner-for-all-products) |
+| 206   | [Which of the following is correct about the Product Vision?](#which-of-the-following-is-correct-about-the-product-vision) |
+| 207   | [Which statement describes best how the Product Backlog is impacted by changes in the product environment?](#which-statement-describes-best-how-the-product-backlog-is-impacted-by-changes-in-the-product-environment) |
+| 208   | [What does a Product Owner do in the Scrum Event Sprint Retrospective?](#what-does-a-product-owner-do-in-the-scrum-event-sprint-retrospective) |
+| 209   | [Which of the following are not allowed in Scrum?](#which-of-the-following-are-not-allowed-in-scrum) |
+| 210   | [True or False: When two Scrum Teams are working on the same product you should normalize their estimations to be able to compare their performance.](#true-or-false-when-two-scrum-teams-are-working-on-the-same-product-you-should-normalize-their-estimations-to-be-able-to-compare-their-performance) |
+| 211   | [Which statement about the Product Backlog is correct?](#which-statement-about-the-product-backlog-is-correct) |
+| 212   | [True or False: The Product Owner can nominate a "Lead Developer" as a single point of contact.](#true-or-false-the-product-owner-can-nominate-a-lead-developer-as-a-single-point-of-contact) |
+| 213   | [Which 3 of the following are time boxed Scrum events?](#which-3-of-the-following-are-time-boxed-scrum-events) |
+| 214   | [Which of the following answers is correct about the Product Owner accountability (role = outdated term)?](#which-of-the-following-answers-is-correct-about-the-product-owner-accountability-role-=-outdated-term) |
+| 215   | [Which statement is correct about the Sprint Backlog?](#which-statement-is-correct-about-the-sprint-backlog) |
+| 216   | [How much of the overall working time should the Product Owner spend with the Developers?](#how-much-of-the-overall-working-time-should-the-product-owner-spend-with-the-developers) |
+| 217   | [True or False: Two Scrum Teams are working on the same product. Do they have to share the same Definition of Ready?](#true-or-false-two-scrum-teams-are-working-on-the-same-product-do-they-have-to-share-the-same-definition-of-ready) |
+| 218   | [Based on which criteria should the Product Owner order the Product Backlog Items?](#based-on-which-criteria-should-the-product-owner-order-the-product-backlog-items) |
+| 219   | [The satisfaction of which stakeholder is the most important?](#the-satisfaction-of-which-stakeholder-is-the-most-important) |
+| 220   | [True or False: It is not allowed that the Product Owner is a Developer (part of the "Developers") at the same time.](#true-or-false-it-is-not-allowed-that-the-product-owner-is-a-developer-part-of-the-developers-at-the-same-time) |
+| 221   | [Which 2 of the following are an indication for an item to be ready for development?](#which-2-of-the-following-are-an-indication-for-an-item-to-be-ready-for-development) |
+| 222   | [True or False: To be self-management means, that it is okay for the Developers to don't do the Daily Scrum.](#true-or-false-to-be-self-management-means-that-it-is-okay-for-the-developers-to-dont-do-the-daily-scrum) |
+| 223   | [The Product Owner is not available and cannot answer the developers questions before the Sprint Planning. Therefore, the developers feel a high level of uncertainty to make a reliable forecast. What should the team do?](#the-product-owner-is-not-available-and-cannot-answer-the-developers-questions-before-the-sprint-planning-therefore-the-developers-feel-a-high-level-of-uncertainty-to-make-a-reliable-forecast-what-should-the-team-do) |
+| 224   | [Which of the following should a Scrum Master do to start a project?](#which-of-the-following-should-a-scrum-master-do-to-start-a-project) |
+| 225   | [True or False: All items in the Product Backlog have usually the same size.](#true-or-false-all-items-in-the-product-backlog-have-usually-the-same-size) |
+| 226   | [Which two of the following are typical Daily Scrum outcomes?](#which-two-of-the-following-are-typical-daily-scrum-outcomes) |
+| 227   | [True or False: Does a Product Backlog Item have an item "Owner".](#true-or-false-does-a-product-backlog-item-have-an-item-owner) |
+| 228   | [True or False: The Product Owner is not part of the Scrum Team.](#true-or-false-the-product-owner-is-not-part-of-the-scrum-team) |
+| 229   | [Which statements describe best what happens in an organization if Scrum is introduced but the Scrum terminology is tailored to fit into the organizations environment?](#which-statements-describe-best-what-happens-in-an-organization-if-scrum-is-introduced-but-the-scrum-terminology-is-tailored-to-fit-into-the-organizations-environment) |
+| 230   | [Which Scrum accountabilities (roles = outdated term) have to attend the Daily Scrum?](#which-scrum-accountabilities-roles-=-outdated-term-have-to-attend-the-daily-scrum) |
+| 231   | [The Developers have an internal conflict with one of the team members. What should the Product Owner do?](#the-developers-have-an-internal-conflict-with-one-of-the-team-members-what-should-the-product-owner-do) |
+| 232   | [Which of the following describes best the Sprint Review?](#which-of-the-following-describes-best-the-sprint-review) |
+| 233   | [True or False: In each Sprint Backlog at least one high priority process improvement items is existing.](#true-or-false-in-each-sprint-backlog-at-least-one-high-priority-process-improvement-items-is-existing) |
+| 234   | [True or False: The "Definition of Ready" shows the team when Product Backlog Items are ready to be selected for the Sprint Backlog.](#true-or-false-the-definition-of-ready-shows-the-team-when-product-backlog-items-are-ready-to-be-selected-for-the-sprint-backlog) |
+| 235   | [Which two of the following contribute the most to the Scrum Value "Focus"?](#which-two-of-the-following-contribute-the-most-to-the-scrum-value-focus) |
+| 236   | [Who is required to attend the Daily Scrum?](#who-is-required-to-attend-the-daily-scrum) |
+| 237   | [How much time is needed between a Sprint Retrospective and the next Sprint Planning to prepare the Product Backlog?](#how-much-time-is-needed-between-a-sprint-retrospective-and-the-next-sprint-planning-to-prepare-the-product-backlog) |
+| 238   | [Which of the following best describes the Scrum Pillar "Transparency"?](#which-of-the-following-best-describes-the-scrum-pillar-transparency) |
+| 239   | [True or False: The Product Backlog is baselined before the Sprint 0.](#true-or-false-the-product-backlog-is-baselined-before-the-sprint-0) |
+| 240   | [Which of the following are Scrum Values?](#which-of-the-following-are-scrum-values) |
+| 241   | [True or False: Self-management means, that the team can decide which Scrum events are needed.](#true-or-false-self-management-means-that-the-team-can-decide-which-scrum-events-are-needed) |
+| 242   | [True or False: Following Scrum, there can be a maximum of one release per Sprint.](#true-or-false-following-scrum-there-can-be-a-maximum-of-one-release-per-sprint) |
+| 243   | [Which Scrum accountability (role = outdated term) is owning the Sprint Backlog?](#which-scrum-accountability-role-=-outdated-term-is-owning-the-sprint-backlog) |
+| 244   | [Which of the following are mandatory in Scrum?](#which-of-the-following-are-mandatory-in-scrum) |
+| 245   | [True or False: The Scrum Master can decide which Scrum Artifacts are required in the Scrum project.](#true-or-false-the-scrum-master-can-decide-which-scrum-artifacts-are-required-in-the-scrum-project) |
+| 246   | [How is budgeting done in a Scrum Project?](#how-is-budgeting-done-in-a-scrum-project) |
+| 247   | [The collaboration between the Developers and the Product Owner is very important for the product. Which of the following is the least productive way for the Scrum Master to improve this collaboration?](#the-collaboration-between-the-developers-and-the-product-owner-is-very-important-for-the-product-which-of-the-following-is-the-least-productive-way-for-the-scrum-master-to-improve-this-collaboration) |
+| 248   | [Which Scrum Event can be compared to the use of a "lessons learned meeting"?](#which-scrum-event-can-be-compared-to-the-use-of-a-lessons-learned-meeting) |
+| 249   | [True or False: The Product Backlog should have just enough detail.](#true-or-false-the-product-backlog-should-have-just-enough-detail) |
+| 250   | [In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)](#in-the-middle-of-the-sprint-the-customer-decides-that-there-are-two-new-features-she-wants-the-product-owner-could-choose-the-best-two-answers) |
+| 251   | [Developers are self-managing, which of the following do they manage? (choose the best answer)](#developers-are-self-managing-which-of-the-following-do-they-manage-choose-the-best-answer) |
+| 252   | [When the Developers determine that they will not be able to finish the complete forecast, who needs to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)](#when-the-developers-determine-that-they-will-not-be-able-to-finish-the-complete-forecast-who-needs-to-be-present-when-reviewing-and-adjusting-the-sprint-work-selected-choose-the-best-answer) |
+| 253   | [A Scrum Team is a cohesive unit of professionals that consists of which of the following? (choose all that apply)](#a-scrum-team-is-a-cohesive-unit-of-professionals-that-consists-of-which-of-the-following-choose-all-that-apply) |
+| 254   | [Which of the following is required by Scrum? (choose the best answer)](#which-of-the-following-is-required-by-scrum-choose-the-best-answer) |
+| 255   | [A Scrum Master is working with a Scrum Team that has Developers in different physical locations. The Developers meet in a variety of meeting rooms and have much to do logistically (for example: reserve meeting rooms and set up conference calls) before the Daily Scrum. What action should the Scrum Master take? (choose the best answer)](#a-scrum-master-is-working-with-a-scrum-team-that-has-developers-in-different-physical-locations-the-developers-meet-in-a-variety-of-meeting-rooms-and-have-much-to-do-logistically-for-example-reserve-meeting-rooms-and-set-up-conference-calls-before-the-daily-scrum-what-action-should-the-scrum-master-take-choose-the-best-answer) |
+| 256   | [What does it mean for a Scrum Team to be cross-functional? (choose the best answer)](#what-does-it-mean-for-a-scrum-team-to-be-cross-functional-choose-the-best-answer) |
+| 257   | [The job of a Product Owner focuses on the following: (choose the best two answers)](#the-job-of-a-product-owner-focuses-on-the-following-choose-the-best-two-answers) |
+| 258   | [When multiple Scrum Teams are working on the same product, should all of their Increments be integrated every Sprint? (choose the best answer)](#when-multiple-scrum-teams-are-working-on-the-same-product-should-all-of-their-increments-be-integrated-every-sprint-choose-the-best-answer) |
+| 259   | [Which statement best describes a Product Owner's responsibility? (choose the best answer)](#which-statement-best-describes-a-product-owners-responsibility-choose-the-best-answer) |
+| 260   | [Which two things should the Scrum Team do during the first Sprint? (choose the best two answers) ](#which-two-things-should-the-scrum-team-do-during-the-first-sprint-choose-the-best-two-answers) |
+| 261   | [What is the timebox for the Sprint Planning event? (choose the best answer)](#what-is-the-timebox-for-the-sprint-planning-event-choose-the-best-answer) |
+| 262   | [Who owns the Sprint Backlog? (choose the best answer)](#who-owns-the-sprint-backlog-choose-the-best-answer) |
+| 263   | [Which of the following are appropriate topics for discussion during a Sprint Retrospective? (choose the best two answers)](#which-of-the-following-are-appropriate-topics-for-discussion-during-a-sprint-retrospective-choose-the-best-two-answers) |
+| 264   | [What is the Product Owner responsible for during the Sprint Retrospective? (choose the best answer)](#what-is-the-product-owner-responsible-for-during-the-sprint-retrospective-choose-the-best-answer) |
 
 ### A Scrum Team has been working on a product for 9 Sprints. A new Product Owner who is new to Scrum joins the team and understands she is accountable for the Product Backlog. However, she is unsure about the purpose of the Product Backlog. She has read that the Product Backlog should be a list of all user features for the product. She goes to the Scrum Master asking where to put the other types of requirements that are going to be taken into account. Are all of the following types of requirements acceptable on a Product Backlog? Stability requirements. Performance requirements. Product Functionality. Documentation. Fixes. (choose the best answer)
 
