@@ -500,10 +500,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Why is it important that there is only one Product Owner per product? (choose the best three answers)
 
-- [x] The Scrum Team always knows who determines the order of the Product Backlog.
+- [ ] The Scrum Team always knows who determines the order of the Product Backlog.
 - [ ] The Scrum Master knows who acts as their backup while on vacation.
 - [x] It is clear who is accountable for the ultimate value of the product.
-- [ ] It would confuse the stakeholders if they had to work with more than one person.
+- [x] It would confuse the stakeholders if they had to work with more than one person.
 - [x] It helps avoid barriers to effective communication and rapid decision-making.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -624,8 +624,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Velocity.
 - [ ] Productivity.
 - [x] Time to market.
-- [ ] Customer satisfacion.
-- [x] Percentage of scope implemented.
+- [x] Customer satisfacion.
+- [ ] Percentage of scope implemented.
 
 **[⬆ Back to Top](#table-of-contents)**
 
