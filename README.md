@@ -628,7 +628,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Velocity.
 - [ ] Productivity.
 - [x] Time to market.
-- [x] Customer satisfacion.
+- [x] Customer satisfaction.
 - [ ] Percentage of scope implemented.
 
 **[⬆ Back to Top](#table-of-contents)**
