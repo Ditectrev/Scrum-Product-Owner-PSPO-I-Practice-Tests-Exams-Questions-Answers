@@ -2562,10 +2562,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### The job of a Product Owner focuses on the following: (choose the best two answers)
 
-- [ ] Clearly communicating project or release status and strategies to customers and stakeholders.
+- [x] Clearly communicating project or release status and strategies to customers and stakeholders.
 - [x] Working with customers and stakeholders to identify the most valuable product requirements.
 - [ ] Being with the Scrum Team all the time, just in case they need me to clarify a requirement.
-- [x] Writing clear, transparent User Stories.
+- [ ] Writing clear, transparent User Stories.
 
 **[⬆ Back to Top](#table-of-contents)**
 
