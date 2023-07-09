@@ -2525,7 +2525,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### A Scrum Team is a cohesive unit of professionals that consists of which of the following? (choose all that apply)
 
 - [x] Developers.
-- [ ] One Product Owner.
+- [x] One Product Owner.
 - [ ] Users.
 - [x] One Scrum Master.
 - [ ] Customers.
