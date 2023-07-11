@@ -2515,9 +2515,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When the Developers determine that they will not be able to finish the complete forecast, who needs to be present when reviewing and adjusting the Sprint work selected? (choose the best answer)
 
-- [x] The Scrum Master and the Developers.
+- [ ] The Scrum Master and the Developers.
 - [ ] The Product Owner and all stakeholders.
-- [ ] The Product Owner and the Developers.
+- [x] The Product Owner and the Developers.
 - [ ] The Scrum Master project manager and the Developers.
 
 **[⬆ Back to Top](#table-of-contents)**
