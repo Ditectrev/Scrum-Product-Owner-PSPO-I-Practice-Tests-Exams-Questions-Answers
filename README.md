@@ -2496,10 +2496,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### In the middle of the Sprint, the customer decides that there are two new features she wants. The Product Owner could: (choose the best two answers)
 
-- [ ] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
-- [x] Introduce these features at the next Daily Scrum.
-- [x] Have the Scrum Master add these features to the current Sprint.
-- [ ] Add these features to the Product Backlog.
+- [x] Ask the Developers to consider whether they can add these features to the current Sprint without endangering the Sprint Goal.
+- [ ] Introduce these features at the next Daily Scrum.
+- [ ] Have the Scrum Master add these features to the current Sprint.
+- [x] Add these features to the Product Backlog.
 
 **[⬆ Back to Top](#table-of-contents)**
 
