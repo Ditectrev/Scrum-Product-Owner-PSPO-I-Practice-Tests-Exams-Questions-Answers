@@ -2571,8 +2571,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### When multiple Scrum Teams are working on the same product, should all of their Increments be integrated every Sprint? (choose the best answer)
 
-- [x] Yes, but only for Scrum Teams whose work has dependencies.
-- [ ] Yes, in order to accurately inspect what is done.
+- [ ] Yes, but only for Scrum Teams whose work has dependencies.
+- [x] Yes, in order to accurately inspect what is done.
 - [ ] No, that's far too hard and must be done in a hardening Sprint.
 - [ ] No, each Scrum Team stands alone.
 
