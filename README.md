@@ -2609,8 +2609,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Who owns the Sprint Backlog? (choose the best answer)
 
 - [ ] The Product Owner.
-- [x] The Scrum Team.
-- [ ] The Developers.
+- [ ] The Scrum Team.
+- [x] The Developers.
 - [ ] The Scrum Master.
 
 **[⬆ Back to Top](#table-of-contents)**
