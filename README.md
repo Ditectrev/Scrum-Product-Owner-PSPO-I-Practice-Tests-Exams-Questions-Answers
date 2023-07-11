@@ -1478,8 +1478,8 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] A clear cadence of when the Daily Scrum will take place.
 - [x] A Product Backlog with the most important items ready for discussion.
 - [ ] Formal budget approval to conduct another Sprint.
-- [ ] A Product Goal communicated by the Product Owner.
-- [x] A clear and non-negotiable Sprint Goal.
+- [x] A Product Goal communicated by the Product Owner.
+- [ ] A clear and non-negotiable Sprint Goal.
 
 **[⬆ Back to Top](#table-of-contents)**
 
