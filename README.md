@@ -551,9 +551,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] To be able to punish the team when they do not meet their velocity goal for the Sprint.
 - [ ] The Product Owner should not care about the Definition of Done, it is the Scrum Team's responsibility.
-- [ ] The Definition of Done can affect the product's total cost of ownership.
+- [x] The Definition of Done can affect the product's total cost of ownership.
 - [x] To have complete transparency into what has been done at the end of each Sprint.
-- [x] To forecast the team's productivity over time.
+- [ ] To forecast the team's productivity over time.
 
 **[⬆ Back to Top](#table-of-contents)**
 
