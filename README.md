@@ -1,16 +1,20 @@
-# ⬆️ Scrum Product Owner (PSPO I) Practice Tests Exams Questions & Answers
+# ⬆️ Scrum Product Owner I for PSPO I Practice Tests Exams Questions & Answers
 
 ![Promotional image](images/promotional.png)
+
+#### Legal Information and Disclaimer
+
+*Scrum.org • Professional Scrum • Applying Professional Scrum • Professional Scrum Foundations • Professional Scrum Master • Professional Scrum Product Owner • Professional Scrum Developer • Scaled Professional Scrum • Professional Agile Leadership • Professional Agile Leadership - Essentials • Professional Scrum with Kanban • Professional Scrum with User Experience • Professional Scrum Facilitation Skills • Professional Scrum Product Backlog Management Skills • Professional Scrum Trainer • Professional Training Network • Evidence Based Management • Guided Learning Platform • Professional Scrum Guide • Scrum Pulse • ScrumPulse • Scrum Tapas • PSF • APS • PSM • PSPO • PSD • SPS • PAL-E • PSK • PSU • PSF Skills • PSPBM Skills • PST • PSG • GLP • PTN • EBM • EBMngt along with respective Design Marks, are protected brands of Scrum.org. This course is neither endorsed nor affiliated with Scrum.org.*
 
 ## Udemy & Etsy
 
 ❣️ Please support us by purchasing this course on Udemy in an interactive version with the [discounted link](https://www.udemy.com/course/professional-scrum-product-owner-pspo-i-practice-test-exam/?referralCode=07DC7B5304A2D16BC654). If you're working for a company, you could most probably easily claim this expense during preparation for your exam. For us, it's to be, or not to be, in the game.
 
-🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://www.etsy.com/listing/1415738954/professional-scrum-product-owner-pspo-i).
+🛍️ Alternatively, you can buy the PDF with those questions on [Etsy](https://ditectrev.etsy.com/listing/1415738954).
 
-## ✨ This course is unlike any Scrum Product Owner (PSPO I) course you will find online.
+## ✨ This course is unlike any Scrum Product Owner I for PSPO I course you will find online
 
-✋ Join a live online community and a course taught by industry experts and pass the Scrum Product Owner (PSPO I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
+✋ Join a live online community and a course taught by industry experts and pass the Professional Scrum Product Owner (PSPO I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
 
 [![Join our Discord](images/discord.png 'Join our Discord')](https://discord.gg/RFjtXKfJy3)
 
@@ -35,30 +39,34 @@
    - **Much More!**
 4. Questions are similar to the actual exam, without duplications (like in other courses ;-)).
 5. The Practice Tests Exams simulate the actual exam's content, timing, and percentage required to pass the exam.
-6. This course is **not** a Scrum Product Owner (PSPO I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
+6. This course is **not** a Professional Scrum Product Owner (PSPO I) Exam Dump. Some people use brain dumps or exam dumps, but that's absurd, which we don't practice.
 7. 264 **unique** questions.
 
 ## ☝️ Course Updates
 
-**[v1.0.0](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.0): January 25, 2023.**
+**[v1.0.0](../../releases/tag/v1.0.0): January 25, 2023.**
 
 - Launch of the course.
 
-**[v1.0.1](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.0.1): May 7, 2023.**
+**[v1.0.1](../../releases/tag/v1.0.1): May 7, 2023.**
 
 - Fix 2 questions with minor improvements.
 
-**[v1.1.0](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/releases/tag/v1.1.0): July 13, 2023.**
+**[v1.1.0](../../releases/tag/v1.1.0): July 13, 2023.**
 
 - Fix 8 questions with correct answers.
 
+**[v1.1.1](../../releases/tag/v1.1.1): November 16, 2023.**
+
+- Fix all remaining typos with support of automated proofreading software.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
-We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers#table-of-contents), the wrong answer, please submit an [issue](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/issues). Even better would be a [Pull Request (PR)](https://github.com/Ditectrev/Professional-Scrum-Product-Owner-PSPO-I-Practice-Tests-Exams-Questions-Answers/pulls).
+We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
 
 ## Who this course is for:
 
-- 👨‍🎓 Students preparing for the Scrum Product Owner (PSPO I) Exam;
+- 👨‍🎓 Students preparing for the Professional Scrum Product Owner (PSPO I) Exam;
 - 👨‍🎓 Agile Coaches;
 - 👨‍🎓 Agile Leaders;
 - 👨‍🎓 DevOps Engineers;
@@ -76,7 +84,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - 🤩 Excitement to learn!
 - 0️⃣ Prior knowledge is required;
-- ✅ You can pass the Scrum Product Owner (PSPO I) Exam solely based on our Practice Tests Exams.
+- ✅ You can pass the Professional Scrum Product Owner (PSPO I) Exam solely based on our Practice Tests Exams.
 
 ## Table of Contents
 
@@ -1537,7 +1545,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] Decisions by the CFO, the CEO or the board of directors.
 - [ ] Technical and architectural work that needs to be done first, as indicated by the chief enterprise architect.
 - [ ] Items the Scrum Master has identified as impediments.
-- [x] There are no exceptions, the entire organization must resspet a Product Owner's decisions.
+- [x] There are no exceptions, the entire organization must respect a Product Owner's decisions.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1554,7 +1562,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What should Developers do if the Product Owner is unavailable?
 
 - [ ] Wait until the Product Owner is available again.
-- [ ] Management should assisgn a substitue Product Owner to fill in where the Product Oner cannot be there.
+- [ ] Management should assign a substitue Product Owner to fill in where the Product Oner cannot be there.
 - [ ] Ask the Product Owner's manager to decide in the Product Owner's absence.
 - [x] Within the Sprint, the Developers make the best decisions posssible to assure progress towards the Sprint Goal, re-aligning with the Product Owner once they are available again.
 
@@ -1581,7 +1589,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### What best describes the relationship of the Product Owner and the stakeholders?
 
 - [ ] The Product Owner provides the stakeholders with acceptance forms at the Sprint Review to record their formal agreement over the delivered software.
-- [x] The Product Owner actively asks for stahekolder input and expactations to incorporate into the Product Backlog.
+- [x] The Product Owner actively asks for stakeholder input and expectations to incorporate into the Product Backlog.
 - [ ] The Product Owner has the final call over the requirements and should involve the stakeholders as little as possible.
 - [ ] The Product Oner rites the Usser Storiess as provided by the stakeholders.
 
@@ -1626,9 +1634,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Who creates the Definition of Done?
 
-- [ ] The Scrum Master as they are ressponsible for the Scrum Team's productivity.
+- [ ] The Scrum Master as they are responsible for the Scrum Team's productivity.
 - [x] The organization (or the Scrum Team if none is available from the organization).
-- [ ] The Product Owner as they are responsisble for the product's success.
+- [ ] The Product Owner as they are responsible for the product's success.
 - [ ] The Scrum Team, in a collaborative effort where the result is the common denominator of all members' definitions.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1637,7 +1645,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] The accumulated cost over the earned value of the product.
 - [ ] The money spent on development and delivery of the product.
-- [x] All investsments required to conceive, develop, operate and maintain the product.
+- [x] All investments required to conceive, develop, operate and maintain the product.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1662,9 +1670,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### What is a Product Backlog?
 
-- [ ] It is a detailed lists of functionalites from which the Developers draw items, to be complemented by a separate Technology Backlog managed by the Developers.
+- [ ] It is a detailed lists of functionalities from which the Developers draw items, to be complemented by a separate Technology Backlog managed by the Developers.
 - [x] The Product Backlog is an emergent, ordered list of what is needed to improve the product.
-- [ ] It is a list of referencess to Use Case documents that are stored in a central repository. The referencess should be visible and clickable by anybody to enhance transparency.
+- [ ] It is a list of references to Use Case documents that are stored in a central repository. The references should be visible and clickable by anybody to enhance transparency.
 - [ ] It is a formally approved list of requirements to be implemented over a set period.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1681,9 +1689,9 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### How does an organization know that a product built using Scrum is successful?
 
 - [ ] By the Product Owner and stakeholders accepting the Increment at the Sprint Review.
-- [x] By relesing frequently, and measuring the value customers/users experience.
-- [ ] By measuring the actual time spent on develpomnet versus the time estimated for develpoment.
-- [ ] By measuring the velocity has increased since the last realese.
+- [x] By releasing frequently, and measuring the value customers/users experience.
+- [ ] By measuring the actual time spent on development versus the time estimated for development.
+- [ ] By measuring the velocity has increased since the last release.
 
 **[⬆ Back to Top](#table-of-contents)**
 
