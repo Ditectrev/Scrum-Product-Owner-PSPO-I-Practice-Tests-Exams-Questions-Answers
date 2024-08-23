@@ -1759,7 +1759,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Hardening Sprints.
 - [ ] Story Points.
-- [ ] Time boxed events.
+- [x] Time boxed events.
 - [x] Sprint Planning meetings.
 - [ ] A Sprint 0.
 
