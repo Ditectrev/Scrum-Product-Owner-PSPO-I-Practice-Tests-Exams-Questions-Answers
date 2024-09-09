@@ -64,7 +64,7 @@
 
 - AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/scrum-product-owner-i-practice-tests-exams-for-pspo-i/?referralCode=C403618301A7174F85CB)).
 
-**[v1.1.2](../../releases/tag/v1.1.2): September 9, 2023.**
+**[v1.1.2](../../releases/tag/v1.1.2): September 9, 2024.**
 
 - Fix 1 question with correct answer.
 
