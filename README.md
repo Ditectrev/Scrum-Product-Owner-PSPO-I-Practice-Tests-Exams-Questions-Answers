@@ -64,6 +64,10 @@
 
 - AI-generated explanations (only paid [Udemy](https://www.udemy.com/course/scrum-product-owner-i-practice-tests-exams-for-pspo-i/?referralCode=C403618301A7174F85CB)).
 
+**[v1.1.2](../../releases/tag/v1.1.2): September 9, 2023.**
+
+- Fix 1 question with correct answer.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
