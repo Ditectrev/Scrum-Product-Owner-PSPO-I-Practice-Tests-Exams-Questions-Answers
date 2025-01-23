@@ -258,7 +258,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 150   | [What is the main reason for the Product Owner to be part of the Daily Scrum?](#what-is-the-main-reason-for-the-product-owner-to-be-part-of-the-daily-scrum) |
 | 151   | [True or False: The Definition of Done increases the transparency and is used by the Developers to forecast how many items can be picked from the Product Backlog.](#true-or-false-the-definition-of-done-increases-the-transparency-and-is-used-by-the-developers-to-forecast-how-many-items-can-be-picked-from-the-product-backlog) |
 | 152   | [True or False: Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint.](#true-or-false-sprint-planning-is-time-boxed-to-a-maximum-of-eight-hours-for-a-one-month-sprint) |
-| 153   | [True or False: The Product Owner is the Scrum accountability (role = outdated term) responsible for engaging the product stakeholders.](#true-or-false-the-product-owner-is-the-scrum-accountability-role--outdated-term-responsible-for-engaging-the-product-stakeholders) |
+| 153   | [True or False: The Product Owner is the Scrum accountability is responsible for engaging the product stakeholders.](#true-or-false-the-product-owner-is-the-scrum-accountability-is-responsible-for-engaging-the-product-stakeholders) |
 | 154   | [Which of the following topics can be part of the Sprint Retrospective?](#which-of-the-following-topics-can-be-part-of-the-sprint-retrospective) |
 | 155   | [Which two statements are correct when four teams are working on one single product?](#which-two-statements-are-correct-when-four-teams-are-working-on-one-single-product) |
 | 156   | [Who is the owner of the Product Backlog?](#who-is-the-owner-of-the-product-backlog) |
@@ -280,7 +280,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 172   | [True or False: The Sprint Backlog content is emerging during the Sprint.](#true-or-false-the-sprint-backlog-content-is-emerging-during-the-sprint) |
 | 173   | [How many Developers are in a Scrum Team?](#how-many-developers-are-in-a-scrum-team) |
 | 174   | [True or False: When n Scrum teams are working on a product, there should always be only 1 Product Owner but 1-n Scrum Masters.](#true-or-false-when-n-scrum-teams-are-working-on-a-product-there-should-always-be-only-1-product-owner-but-1-n-scrum-masters) |
-| 175   | [What is the main accountability (roles = outdated term) of a Project Manager in Scrum?](#what-is-the-main-accountability-roles--outdated-term-of-a-project-manager-in-scrum) |
+| 175   | [What is the main accountability of a Project Manager in Scrum?](#what-is-the-main-accountability-of-a-project-manager-in-scrum) |
 | 176   | [What does a burn-down chart measure in a project?](#what-does-a-burn-down-chart-measure-in-a-project) |
 | 177   | [What may happen if the Scrum Teams composition changes during the project?](#what-may-happen-if-the-scrum-teams-composition-changes-during-the-project) |
 | 178   | [Which statement explain when a Product Backlog Item is considered "Done"?](#which-statement-explain-when-a-product-backlog-item-is-considered-done) |
@@ -290,10 +290,10 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 182   | [The Developers have some trouble to understand a Sprint Backlog item – what should they do?](#the-developers-have-some-trouble-to-understand-a-sprint-backlog-item--what-should-they-do) |
 | 183   | [What kind of testing should be done during the Sprint?](#what-kind-of-testing-should-be-done-during-the-sprint) |
 | 184   | [Which two statements about the Developers are correct?](#which-two-statements-about-the-developers-are-correct) |
-| 185   | [Which Scrum accountability (role = outdated term) is responsible to do all the work required to turn Product Backlog in potentially releasable items?](#which-scrum-accountability-role--outdated-term-is-responsible-to-do-all-the-work-required-to-turn-product-backlog-in-potentially-releasable-items) |
+| 185   | [Which Scrum accountability is responsible to do all the work required to turn Product Backlog in potentially releasable items?](#which-scrum-accountability-is-responsible-to-do-all-the-work-required-to-turn-product-backlog-in-potentially-releasable-items) |
 | 186   | [True or False: The Product Owner has to maximize the value – more features always bring more value. Therefore, the Product Owner has to maximize the number of features in a Sprint.](#true-or-false-the-product-owner-has-to-maximize-the-value--more-features-always-bring-more-value-therefore-the-product-owner-has-to-maximize-the-number-of-features-in-a-sprint) |
 | 187   | [Yes or No: The Product Owner can ask a developer to order the Product Backlog Items instead of him/her – is that okay?](#yes-or-no-the-product-owner-can-ask-a-developer-to-order-the-product-backlog-items-instead-of-himher--is-that-okay) |
-| 188   | [Which accountability (role = outdated term) in Scrum is responsible for explaining the items of the Product Backlog?](#which-accountability-role--outdated-term-in-scrum-is-responsible-for-explaining-the-items-of-the-product-backlog) |
+| 188   | [Which accountability in Scrum is responsible for explaining the items of the Product Backlog?](#which-accountability-in-scrum-is-responsible-for-explaining-the-items-of-the-product-backlog) |
 | 189   | [Which two of the following services are expected from a Scrum Master to a Product Owner?](#which-two-of-the-following-services-are-expected-from-a-scrum-master-to-a-product-owner) |
 | 190   | [True or False: Only the Developers are influencing the Definition of Done, no one else.](#true-or-false-only-the-developers-are-influencing-the-definition-of-done-no-one-else) |
 | 191   | [Which of the following are benefits of self-managing teams?](#which-of-the-following-are-benefits-of-self-managing-teams) |
@@ -301,7 +301,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 193   | [If the Product Owner has concerns about the Definition of Done (DoD) – what should the Product Owner do?](#if-the-product-owner-has-concerns-about-the-definition-of-done-dod--what-should-the-product-owner-do) |
 | 194   | [Which of the following are not required by Scrum?](#which-of-the-following-are-not-required-by-scrum) |
 | 195   | [What does it mean for a team to be a "cross-functional" Team?](#what-does-it-mean-for-a-team-to-be-a-cross-functional-team) |
-| 195   | [Which two of the following answers are not correct about the Product Owner accountability (role = outdated term)?](#which-two-of-the-following-answers-are-not-correct-about-the-product-owner-accountability-role--outdated-term) |
+| 195   | [Which two of the following answers are not correct about the Product Owner accountability?](#which-two-of-the-following-answers-are-not-correct-about-the-product-owner-accountability) |
 | 197   | [True or False: Scrum can only be used to develop products, not to maintain/sustain existing ones.](#true-or-false-scrum-can-only-be-used-to-develop-products-not-to-maintainsustain-existing-ones) |
 | 198   | [What can be done to reduce technical debt?](#what-can-be-done-to-reduce-technical-debt) |
 | 199   | [True or False: The Scrum Master can decide which Scrum Events are required in the Scrum project.](#true-or-false-the-scrum-master-can-decide-which-scrum-events-are-required-in-the-scrum-project) |
@@ -319,7 +319,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 211   | [Which statement about the Product Backlog is correct?](#which-statement-about-the-product-backlog-is-correct) |
 | 212   | [True or False: The Product Owner can nominate a "Lead Developer" as a single point of contact.](#true-or-false-the-product-owner-can-nominate-a-lead-developer-as-a-single-point-of-contact) |
 | 213   | [Which 3 of the following are time boxed Scrum events?](#which-3-of-the-following-are-time-boxed-scrum-events) |
-| 214   | [Which of the following answers is correct about the Product Owner accountability (role = outdated term)?](#which-of-the-following-answers-is-correct-about-the-product-owner-accountability-role--outdated-term) |
+| 214   | [Which of the following answers is correct about the Product Owner accountability?](#which-of-the-following-answers-is-correct-about-the-product-owner-accountability) |
 | 215   | [Which statement is correct about the Sprint Backlog?](#which-statement-is-correct-about-the-sprint-backlog) |
 | 216   | [How much of the overall working time should the Product Owner spend with the Developers?](#how-much-of-the-overall-working-time-should-the-product-owner-spend-with-the-developers) |
 | 217   | [True or False: Two Scrum Teams are working on the same product. Do they have to share the same Definition of Ready?](#true-or-false-two-scrum-teams-are-working-on-the-same-product-do-they-have-to-share-the-same-definition-of-ready) |
@@ -335,7 +335,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 227   | [True or False: Does a Product Backlog Item have an item "Owner".](#true-or-false-does-a-product-backlog-item-have-an-item-owner) |
 | 228   | [True or False: The Product Owner is not part of the Scrum Team.](#true-or-false-the-product-owner-is-not-part-of-the-scrum-team) |
 | 229   | [Which statements describe best what happens in an organization if Scrum is introduced but the Scrum terminology is tailored to fit into the organizations environment?](#which-statements-describe-best-what-happens-in-an-organization-if-scrum-is-introduced-but-the-scrum-terminology-is-tailored-to-fit-into-the-organizations-environment) |
-| 230   | [Which Scrum accountabilities (roles = outdated term) have to attend the Daily Scrum?](#which-scrum-accountabilities-roles--outdated-term-have-to-attend-the-daily-scrum) |
+| 230   | [Which Scrum accountabilities have to attend the Daily Scrum?](#which-scrum-accountabilities-have-to-attend-the-daily-scrum) |
 | 231   | [The Developers have an internal conflict with one of the team members. What should the Product Owner do?](#the-developers-have-an-internal-conflict-with-one-of-the-team-members-what-should-the-product-owner-do) |
 | 232   | [Which of the following describes best the Sprint Review?](#which-of-the-following-describes-best-the-sprint-review) |
 | 233   | [True or False: In each Sprint Backlog at least one high priority process improvement items is existing.](#true-or-false-in-each-sprint-backlog-at-least-one-high-priority-process-improvement-items-is-existing) |
@@ -348,7 +348,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 240   | [Which of the following are Scrum Values?](#which-of-the-following-are-scrum-values) |
 | 241   | [True or False: Self-management means, that the team can decide which Scrum events are needed.](#true-or-false-self-management-means-that-the-team-can-decide-which-scrum-events-are-needed) |
 | 242   | [True or False: Following Scrum, there can be a maximum of one release per Sprint.](#true-or-false-following-scrum-there-can-be-a-maximum-of-one-release-per-sprint) |
-| 243   | [Which Scrum accountability (role = outdated term) is owning the Sprint Backlog?](#which-scrum-accountability-role--outdated-term-is-owning-the-sprint-backlog) |
+| 243   | [Which Scrum accountability is owning the Sprint Backlog?](#which-scrum-accountability-is-owning-the-sprint-backlog) |
 | 244   | [Which of the following are mandatory in Scrum?](#which-of-the-following-are-mandatory-in-scrum) |
 | 245   | [True or False: The Scrum Master can decide which Scrum Artifacts are required in the Scrum project.](#true-or-false-the-scrum-master-can-decide-which-scrum-artifacts-are-required-in-the-scrum-project) |
 | 246   | [How is budgeting done in a Scrum Project?](#how-is-budgeting-done-in-a-scrum-project) |
@@ -1158,7 +1158,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### True or False: Every Scrum Team must have a Product Owner and a Scrum Master.
 
-- [ ] False, a Scrum Master is only required when asked for by the Development Team.
+- [ ] False, a Scrum Master is only required when asked for by the Developers.
 - [x] True, outcomes are affected by their participation and availability.
 - [ ] True, each must be 100% dedicated to their Scrum Team.
 - [ ] False, a Product Owner can be replaced by a Business Analyst among Developer.
@@ -1733,7 +1733,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The Product Owner is the Scrum accountability (role = outdated term) responsible for engaging the product stakeholders.
+### True or False: The Product Owner is the Scrum accountability is responsible for engaging the product stakeholders.
 
 - [x] True.
 - [ ] False.
@@ -1744,7 +1744,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Plan the next Sprint.
 - [x] Discuss the way the Team has communicated in the last Sprint.
-- [x] Discuss the way the Development Team has collaborated with the Product Owner.
+- [x] Discuss the way the Developers have collaborated with the Product Owner.
 - [ ] Refine Product Backlog Items.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1912,7 +1912,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### What is the main accountability (roles = outdated term) of a Project Manager in Scrum?
+### What is the main accountability of a Project Manager in Scrum?
 
 - [ ] Supporting the Product Owner.
 - [ ] Tracking the progress of a Release.
@@ -1940,7 +1940,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which statement explain when a Product Backlog Item is considered "Done"?
 
 - [ ] When the Product Owner declares it to be "Done".
-- [ ] When the Development Team agrees that it is "Done".
+- [ ] When the Developers agrees that it is "Done".
 - [x] When it is potentially releasable.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -1990,18 +1990,18 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### Which two statements about the Developers are correct?
 
-- [x] The Developers are self-organized.
-- [ ] The Development Team is not allowed to help the Product Owner managing the Product Backlog.
-- [ ] The Development Team decides when to do the next release.
-- [x] The Development Team owns the Definition of Done.
+- [x] The Developers are self-managing.
+- [ ] The Developers are not allowed to help the Product Owner managing the Product Backlog.
+- [ ] The Developers decide when to do the next release.
+- [x] The Developers own the Definition of Done.
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which Scrum accountability (role = outdated term) is responsible to do all the work required to turn Product Backlog in potentially releasable items?
+### Which Scrum accountability is responsible to do all the work required to turn Product Backlog in potentially releasable items?
 
 - [ ] The Business Analyst.
 - [ ] The Project Manager.
-- [x] The Development Team.
+- [x] The Developers.
 - [ ] The Stakeholders.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2020,7 +2020,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which accountability (role = outdated term) in Scrum is responsible for explaining the items of the Product Backlog?
+### Which accountability in Scrum is responsible for explaining the items of the Product Backlog?
 
 - [ ] The Developer.
 - [ ] The Requirements Engineer.
@@ -2066,7 +2066,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 ### If the Product Owner has concerns about the Definition of Done (DoD) – what should the Product Owner do?
 
-- [x] The Product Owner should discuss the Definition of Done with the Development Team.
+- [x] The Product Owner should discuss the Definition of Done with the Developers.
 - [ ] The Product Owner should change the Definition of Done.
 - [ ] The Product Owner should ask the Scrum Master to change the Definition of Done.
 
@@ -2091,7 +2091,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which two of the following answers are not correct about the Product Owner accountability (role = outdated term)?
+### Which two of the following answers are not correct about the Product Owner accountability?
 
 - [x] The Product Owner decides which developer does what.
 - [x] The Product Owner has to participate in the Daily Scrum.
@@ -2233,7 +2233,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which of the following answers is correct about the Product Owner accountability (role = outdated term)?
+### Which of the following answers is correct about the Product Owner accountability?
 
 - [ ] The Product Owner is not part of the Scrum Team.
 - [ ] The Product Owner creates all items in the Product Backlog on his own.
@@ -2315,7 +2315,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Which of the following should a Scrum Master do to start a project?
 
 - [ ] Ask the Lead Developer to explain the IT architecture.
-- [x] Ask the Development Team to introduce themselves to each other and tell about their skills and background.
+- [x] Ask the Developers to introduce themselves to each other and tell about their skills and background.
 - [ ] Ensure, that all team members have a first ticket assigned to them.
 
 **[⬆ Back to Top](#table-of-contents)**
@@ -2359,7 +2359,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which Scrum accountabilities (roles = outdated term) have to attend the Daily Scrum?
+### Which Scrum accountabilities have to attend the Daily Scrum?
 
 - [ ] The Scrum Master.
 - [ ] The Project Manager.
@@ -2373,7 +2373,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] Remove the Developer from the team?
 - [ ] Ask the Scrum Master to remove the Developer from the Team?
-- [x] Let the team handle the conflict internally – they are self-organizing!
+- [x] Let the team handle the conflict internally – they are self-managing!
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -2467,11 +2467,11 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### Which Scrum accountability (role = outdated term) is owning the Sprint Backlog?
+### Which Scrum accountability is owning the Sprint Backlog?
 
 - [ ] The Product Owner.
 - [ ] The Scrum Master
-- [x] The Development Team.
+- [x] The Developers.
 
 **[⬆ Back to Top](#table-of-contents)**
 
