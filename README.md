@@ -5,6 +5,7 @@
 ## ❣ Support
 
 There are many ways to support us; in exchange, you'll get this material in a proper format:
+
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, with answers marked](https://shop.ditectrev.com/product/scrum-product-owner-i-for-pspo-i-practice-tests-exams-questions-answers),
 - ❤️ [shop.ditectrev.com, in EPUB or PDF formats, without answers marked](https://shop.ditectrev.com/product/scrum-product-owner-i-for-pspo-i-practice-tests-exams-questions-no-answers),
 - 📖 [Udemy is the only one to have explanations for questions](https://www.udemy.com/course/scrum-product-owner-i-practice-tests-exams-for-pspo-i/?referralCode=C403618301A7174F85CB),
@@ -18,7 +19,7 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 💰 If you work for a company, you could probably easily claim this expense while preparing for your exam. For us, it's about being in the game or not.
 
-⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item. 
+⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
 
 ## ✨ This course is unlike any Scrum Product Owner I for PSPO I course you will find online
 
@@ -339,7 +340,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 231   | [The Developers have an internal conflict with one of the team members. What should the Product Owner do?](#the-developers-have-an-internal-conflict-with-one-of-the-team-members-what-should-the-product-owner-do) |
 | 232   | [Which of the following describes best the Sprint Review?](#which-of-the-following-describes-best-the-sprint-review) |
 | 233   | [True or False: In each Sprint Backlog at least one high priority process improvement items is existing.](#true-or-false-in-each-sprint-backlog-at-least-one-high-priority-process-improvement-items-is-existing) |
-| 234   | [True or False: The "Definition of Ready" shows the team when Product Backlog Items are ready to be selected for the Sprint Backlog.](#true-or-false-the-definition-of-ready-shows-the-team-when-product-backlog-items-are-ready-to-be-selected-for-the-sprint-backlog) |
+| 234   | [True or False: The Definition of Ready shows the team when Product Backlog Items are ready to be selected for the Sprint Backlog.](#true-or-false-the-definition-of-ready-shows-the-team-when-product-backlog-items-are-ready-to-be-selected-for-the-sprint-backlog) |
 | 235   | [Which two of the following contribute the most to the Scrum Value "Focus"?](#which-two-of-the-following-contribute-the-most-to-the-scrum-value-focus) |
 | 236   | [Who is required to attend the Daily Scrum?](#who-is-required-to-attend-the-daily-scrum) |
 | 237   | [How much time is needed between a Sprint Retrospective and the next Sprint Planning to prepare the Product Backlog?](#how-much-time-is-needed-between-a-sprint-retrospective-and-the-next-sprint-planning-to-prepare-the-product-backlog) |
@@ -2392,7 +2393,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The "Definition of Ready" shows the team when Product Backlog Items are ready to be selected for the Sprint Backlog.
+### True or False: The Definition of Ready shows the team when Product Backlog Items are ready to be selected for the Sprint Backlog.
 
 - [ ] True.
 - [x] False.
