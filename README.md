@@ -21,6 +21,14 @@ There are many ways to support us; in exchange, you'll get this material in a pr
 
 ⭐ Good ratings & reviews help us to survive. Please don't forget to leave a nice one when you purchase an item.
 
+## 👩‍💻 & 👨‍💻 Interactive Course(s)
+
+It's great to learn these questions as your exam preparation, and, yes, you should pass just based on that. However, we highly recommend more interactive learning if you want to become an expert. Currently, we're recommending those courses:
+
+- 📖 [Educative: text-based, video-free course, including set up out-of-the-box for you Cloud Labs to practice hands-on without the need to set up an environment (and payments). The link includes the highest available discount Educative offers](https://www.educative.io/courses/product-management-essentials-in-agile-environments?aff=VALz).
+
+Yes, we have a little commission from that link. Therefore, by using that link, you're supporting us.
+
 ## ✨ This course is unlike any Scrum Product Owner I for PSPO I course you will find online
 
 ✋ Join a live online community and a course taught by industry experts and pass the Scrum Product Owner (PSPO I) confidently. We aim to build an ecosystem of Information Technology (IT) certifications and online courses in cooperation with the technology industry. We believe it will give our students 100% confidence in the pacing market in an open-source environment. We are just at the beginning of our way, so it's even better for you to join now!
@@ -259,7 +267,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 | 150   | [What is the main reason for the Product Owner to be part of the Daily Scrum?](#what-is-the-main-reason-for-the-product-owner-to-be-part-of-the-daily-scrum) |
 | 151   | [True or False: The Definition of Done increases the transparency and is used by the Developers to forecast how many items can be picked from the Product Backlog.](#true-or-false-the-definition-of-done-increases-the-transparency-and-is-used-by-the-developers-to-forecast-how-many-items-can-be-picked-from-the-product-backlog) |
 | 152   | [True or False: Sprint Planning is time-boxed to a maximum of eight hours for a one-month Sprint.](#true-or-false-sprint-planning-is-time-boxed-to-a-maximum-of-eight-hours-for-a-one-month-sprint) |
-| 153   | [True or False: The Product Owner is the Scrum accountability is responsible for engaging the product stakeholders.](#true-or-false-the-product-owner-is-the-scrum-accountability-is-responsible-for-engaging-the-product-stakeholders) |
+| 153   | [True or False: The Product Owner is the Scrum accountability that is responsible for engaging the product stakeholders.](#true-or-false-the-product-owner-is-the-scrum-accountability-that-is-responsible-for-engaging-the-product-stakeholders) |
 | 154   | [Which of the following topics can be part of the Sprint Retrospective?](#which-of-the-following-topics-can-be-part-of-the-sprint-retrospective) |
 | 155   | [Which two statements are correct when four teams are working on one single product?](#which-two-statements-are-correct-when-four-teams-are-working-on-one-single-product) |
 | 156   | [Who is the owner of the Product Backlog?](#who-is-the-owner-of-the-product-backlog) |
@@ -1734,7 +1742,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 **[⬆ Back to Top](#table-of-contents)**
 
-### True or False: The Product Owner is the Scrum accountability is responsible for engaging the product stakeholders.
+### True or False: The Product Owner is the Scrum accountability that is responsible for engaging the product stakeholders.
 
 - [x] True.
 - [ ] False.
