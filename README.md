@@ -1601,7 +1601,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 
 - [ ] They should work apart as much as posssible in order to keep the concerns of business and technology separated.
 - [x] They collaborate often so the Developers build Increments keeping end-user and stakeholder concerns in mind.
-- [x] They collaborate often so the Product Oner can make informed decisions in balancing effort and value of Product Backlog Items.
+- [x] They collaborate often so the Product Owner can make informed decisions in balancing effort and value of Product Backlog Items.
 - [ ] They should share no more than the Sprint Planning and the Sprint Review meeting.
 - [ ] The Product Owner should be with the Developers full-time to grow a deep understanding of the technology being used.
 
@@ -1620,7 +1620,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Product Owner provides the stakeholders with acceptance forms at the Sprint Review to record their formal agreement over the delivered software.
 - [x] The Product Owner actively asks for stakeholder input and expectations to incorporate into the Product Backlog.
 - [ ] The Product Owner has the final call over the requirements and should involve the stakeholders as little as possible.
-- [ ] The Product Oner rites the Usser Storiess as provided by the stakeholders.
+- [ ] The Product Owner rites the Usser Storiess as provided by the stakeholders.
 
 **[⬆ Back to Top](#table-of-contents)**
 
@@ -1637,7 +1637,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 ### Is the Product Owner required to be present at the Sprint Retrospective?
 
 - [ ] They are not allowed. The Sprint Retrosspective is an opportunity for the Developerss to improve.
-- [ ] They are optional. Attendance is only required when the Product Oner gets invited by the Scrum Master.
+- [ ] They are optional. Attendance is only required when the Product Owner gets invited by the Scrum Master.
 - [x] Their attendance is mandatory. The Sprint Retrospective is an opportunity for the Scrum Team to assess and improve itself.
 
 **[⬆ Back to Top](#table-of-contents)**
