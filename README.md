@@ -89,6 +89,10 @@ Yes, we have a little commission from that link. Therefore, by using that link, 
 
 - Update outdated terminology.
 
+**[v1.2.1](../../releases/tag/v1.2.1): June 14, 2025.**
+
+- Fix 6 typos.
+
 ## 🙋‍♀️ & 🙋‍♂️ Contribution
 
 We are so thankful for every contribution, which makes sure we can deliver top-notch content. Whenever you find a missing resource, broken link in a [Table of Contents](../..#table-of-contents), the wrong answer, please submit an [issue](../../issues). Even better would be a [Pull Request (PR)](../../pulls).
