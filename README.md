@@ -1620,7 +1620,7 @@ We are so thankful for every contribution, which makes sure we can deliver top-n
 - [ ] The Product Owner provides the stakeholders with acceptance forms at the Sprint Review to record their formal agreement over the delivered software.
 - [x] The Product Owner actively asks for stakeholder input and expectations to incorporate into the Product Backlog.
 - [ ] The Product Owner has the final call over the requirements and should involve the stakeholders as little as possible.
-- [ ] The Product Owner rites the Usser Storiess as provided by the stakeholders.
+- [ ] The Product Owner rates the User Stories as provided by the stakeholders.
 
 **[⬆ Back to Top](#table-of-contents)**
 
